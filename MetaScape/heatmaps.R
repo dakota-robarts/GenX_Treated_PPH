@@ -4,8 +4,8 @@ library(gplots)
 library(readxl)
 library(readr)
 library(RColorBrewer)
-dat1 <- read_excel("D:/OneDrive/Lab File/GenX/RNA Gene Array/Newest Analysis/MetaScape/2 or -2 cut off.xlsx")
-significant_genes <- read_csv("D:/OneDrive/Lab File/GenX/RNA Gene Array/Newest Analysis/significant_genes.csv")
+dat1 <- read_excel(".../MetaScape/2 or -2 cut off.xlsx")
+significant_genes <- read_csv(".../significant_genes.csv")
 
 loc0.1=which(significant_genes$`0.1uMFold Change`< 0)
 significant_genes$`0.1uMFold Change`[loc0.1]=-1/significant_genes$`0.1uMFold Change`[loc0.1]
@@ -56,7 +56,7 @@ rb
 
 #===================================================Top 20 Enriched Clusters===========
 
-setwd("C:/Users/codyr/OneDrive/Lab File/GenX/RNA Gene Array/Newest Analysis/MetaScape")
+setwd(".../MetaScape")
 
 HeatmapSelectedGO <- read_csv("Enrichment_heatmap/HeatmapSelectedGO.csv")
 all <- read_csv("Enrichment_GO/_FINAL_GO.csv")
