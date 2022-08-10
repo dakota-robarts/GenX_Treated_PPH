@@ -1,0 +1,242 @@
+© 2000-2020 QIAGEN. All rights reserved.
+
+Upstream Regulator	Expr Fold Change	Molecule Type	Predicted Activation State	Activation z-score	Flags	p-value of overlap	Target Molecules in Dataset	Mechanistic Network
+nilotinib	 	chemical drug	Activated	2.183	bias	2.84E-02	BCL2L11,CDK7,PIK3CA,SMC3,ZEB1	 
+miR-16-5p (and other miRNAs w/seed AGCAGCA)	 	mature microRNA	Activated	2.014	bias	4.38E-02	C2orf74,ECHDC1,GFPT1,KIF23,MGAT4A,NT5DC1,OSGEPL1,PHLDB2,RICTOR,SLC12A2,SRPRB,UGP2	 
+KDM5B	 	transcription regulator	Activated	2.316	bias	2.01E-02	ANKRD36B,AP4S1,AURKA,BBS9,let-7,LGALS3BP,PSD3,SMC5,SWAP70	 
+trichostatin A	 	chemical drug	Activated	2.076	 	1.00E00	ADAMTS1,AKAP12,ANKRD1,BCL2L11,CYP4B1,DOCK1,ELOVL6,FOLH1,HMGB1,HMGCS1,HMGCS2,IGFBP1,mir-154,mir-19,mir-25,mir-320,MXD1,MYO1B,PPP1R12A,PTBP2,RCHY1,SATB1,SEMA3A,STAG1,STC2,TNC,VIM,ZEB1	 
+lenalidomide	 	chemical drug	Inhibited	-2.424	 	2.40E-01	BLNK,CEMIP2,FCHO2,NUDCD1,PROS1,PTEN,RASGRP3,SCN9A,SEPTIN2,TCF4,VIM	 
+Akt	 	group	Inhibited	-2.164	 	4.01E-01	ANKRD1,BCL2L11,FKBP5,IGF1,LMBRD1,MGAT4A,STEAP4,THBS2,TMX3,TNC,TUSC3,ZEB1	 
+EPAS1	 	transcription regulator	Inhibited	-2.000	bias	5.59E-03	AKAP12,ANGPT2,CEMIP,CHKA,DMXL1,FAM13A,FLG,FMO5,NEAT1,PIK3CA,PLIN2,SLC16A4,STC2,UGP2	 
+HIF1A	 	transcription regulator	Inhibited	-3.116	bias	2.29E-02	ADAMTS1,AKAP12,AURKA,BACH2,BGN,CEMIP,CHKA,CXCR1,FAM13A,GHR,IGF1,ITGB3,NPM1,SLC16A4,SPACA9,STC2,TAC1,TCF4,VIM	 
+HOXB13	 	transcription regulator	Inhibited	-2.000	bias	1.42E-02	BCHE,SEMA3A,UGT2B15,UGT2B7	 
+PPARGC1A	 	transcription regulator	Inhibited	-2.186	 	2.55E-01	ABCB11,ADAMTS1,CYP7A1,IGFBP7,LAMB1,TCF4	 
+MSC	 	transcription regulator	Inhibited	-2.236	bias	3.87E-02	LZTFL1,PSD3,SLC51B,SYNE2,ZAP70	 
+HNF1A	 	transcription regulator	Inhibited	-2.343	bias	6.96E-05	ADH1A,ADH1B,ADH4,ANGPTL3,ARHGAP11A,BTN2A1,CCDC198,CTDSPL2,CYP7A1,GSTA1,HNMT,IFNAR1,IGF1,IGFBP1,MIA2,mir-122,PAH,POLR1A,SLC2A2,SLCO1B1,SLCO1B3,THAP10,UGT2B11,UGT2B15,UGT2B17,UGT2B7,ZBTB20	 
+DBP	 	transcription regulator	Inhibited	-2.000	bias	7.37E-06	ADH1A,ADH1B,ADH1C,BCL2L14,CYP7A1	 
+cycloheximide	 	chemical reagent	Inhibited	-2.183	 	1.00E00	IGFBP1,NPM1,PTBP2,SHBG,UACA	 
+elaidic acid	 	chemical - endogenous mammalian	Inhibited	-2.813	bias	1.76E-02	ANGPTL3,DLAT,ELOVL6,HMGCS1,IDI1,LPP,SC5D,TFPI	 
+leukotriene A4	 	chemical - endogenous mammalian	 	 	 	3.68E-02	TNC	 
+pirinixic acid	 	chemical toxicant	 	1.342	bias	4.31E-02	CGA,CREB3L3,CYP7A1,GSTM3,HMGCS1,HMGCS2,PLIN2	 
+ergosterol	 	chemical - endogenous mammalian	 	 	 	3.68E-02	BCL2L11	 
+beta-estradiol	 	chemical - endogenous mammalian	 	-0.015	 	1.21E-03	ADAMTS1,AGR3,AKAP12,AP1B1,AURKA,BCL2L11,BLNK,BMPR2,CAPN13,CDC42BPA,CEMIP2,CGA,CRYZ,CYTH4,DEFB1,FMO5,FOLH1,FRK,GHR,GNL3,GNS,GRIP1,GSTA2,GSTM3,GTF2IRD1,IGF1,IGFBP1,IGFBP7,IL6ST,ITGB3,KYNU,LAMB1,LAPTM5,let-7,LYZ,MEIS2,mir-19,mir-25,mir-515,mir-548,MXD1,MYO1B,NPM1,NUCB2,PDE4B,PIBF1,PIK3R1,PLIN2,PPP1R12A,PROS1,PTEN,PTPN2,RASGRP1,RHOQ,RYBP,SATB1,SEMA3A,SLK,STC2,TAC1,TP53INP1,TRIM23,UGT2B15,VIM,ZEB1	 
+chenodeoxycholic acid	 	chemical - endogenous mammalian	 	-1.178	 	1.42E-02	ABCB11,ADH1A,ADH1B,CYP7A1,PON1,SLC51B,SLCO1B3	 
+cholic acid	 	chemical - endogenous mammalian	 	 	 	4.99E-02	ABCB11,CYP7A1	 
+Collagen type VII	 	complex	 	 	 	3.68E-02	SLCO1B3	 
+GTP	 	chemical - endogenous mammalian	 	 	 	3.68E-02	GNL3	 
+bevacizumab	 	biologic drug	 	 	 	1.94E-02	ANGPT2,VIM,ZEB1	 
+clofazimine	 	chemical drug	 	 	 	3.68E-02	PLIN2	 
+sunitinib	 	chemical drug	 	-0.200	bias	1.35E-02	BCL2L11,COL6A1,ITGB3,LAMB1,TNC	 
+Sos	 	group	 	 	 	3.68E-02	KRAS	 
+Foxo	 	group	 	 	 	1.62E-02	BCL2L11,DEFB1,RICTOR	 
+p70 S6k	 	group	 	 	 	2.67E-02	BCL2L11,DLG4,VIM	 
+RAS	 	group	 	0.283	bias	4.31E-02	AURKA,BCL2L11,IGF1,NPM1,PTEN,VIM,ZEB1	 
+c-Src	 	group	 	 	 	4.09E-02	CHKA,CYP7A1	 
+cyclooxygenase	 	group	 	 	 	4.09E-02	IGF1,TAC1	 
+NMDA Receptor	 	complex	 	 	 	1.83E-02	DLG4,TAC1	 
+soraphen-A1alpha	 	chemical - endogenous non-mammalian	 	 	 	3.68E-02	RICTOR	 
+guggulu extract	 	chemical - endogenous non-mammalian	 	 	 	3.68E-02	ABCB11	 
+PXR ligand-PXR-Retinoic acid-RXRα	 	complex	 	-1.549	bias	1.33E-04	ABCB11,CYP7A1,GSTA1,GSTA2,GSTM2,SLCO1B1,SLCO1B3	 
+HNF4α dimer	 	complex	 	 	 	1.33E-02	CYP7A1,PON1,SLC2A2	 
+GC-GCR dimer	 	complex	 	-0.594	bias	1.84E-02	BCL2L11,PFKFB1,PIK3R1,TFB1M	 
+CASK	 	kinase	 	 	 	3.68E-02	DLG1	 
+cyanidin 3-O-glucoside	 	chemical - endogenous non-mammalian	 	 	 	3.68E-02	CYP7A1	 
+SLC5A1	 	transporter	 	 	 	3.68E-02	SLC2A2	 
+HOXD8	 	transcription regulator	 	 	 	7.70E-03	ANGPT2,PROX1	 
+SENP7	 	peptidase	 	 	 	2.51E-02	CACNA1C,VIM	 
+CYP26B1	 	enzyme	 	 	 	3.68E-02	FLG	 
+FGF21	 	growth factor	 	 	 	4.99E-02	HMGCS2,IGF1	 
+ADTRP	 	enzyme	 	 	 	3.68E-02	TFPI	 
+CHD5	 	enzyme	 	 	 	1.35E-03	VIM,ZEB1	 
+SPRED2	 	cytokine	 	 	 	3.68E-02	VIM	 
+LBX1	 	transcription regulator	 	 	 	3.68E-02	ZEB1	 
+LINC00887	 	other	 	 	 	7.70E-03	VIM,ZEB1	 
+MIR17HG	 	other	 	0.469	bias	4.86E-04	BCL2L11,BLNK,BMPR2,PTEN	 
+CPXM1	 	peptidase	 	 	 	1.83E-02	COL14A1,COL6A1	 
+ZNF512B	 	transcription regulator	 	 	 	1.83E-02	mir-19,mir-25	 
+SNED1	 	other	 	 	 	1.25E-02	IGF1,IGFBP1	 
+TNRC6B	 	other	 	 	 	3.68E-02	PTEN	 
+MAGT1	 	enzyme	 	 	 	3.68E-02	TUSC3	 
+SLU7	 	enzyme	 	 	 	1.25E-02	BCL2L11,mir-25	 
+PTENP1	 	other	 	 	 	3.68E-02	PTEN	 
+KDM4B	 	enzyme	 	 	 	1.83E-02	ATG16L1,VIM	 
+ELOVL5	1.432	enzyme	 	 	 	3.68E-02	RICTOR	 
+MESP1	 	transcription regulator	 	 	 	3.68E-02	MEIS2	 
+dactolisib	 	chemical drug	 	 	 	1.94E-02	BCL2L11,MAP1LC3B,RICTOR	 
+G2535	 	chemical reagent	 	 	 	6.54E-03	PTEN,VIM,ZEB1	 
+PRKDC	 	kinase	 	 	 	1.07E-02	FKBP5,ROCK2,UGT2B15,UGT2B17	 
+neurotropin	 	chemical drug	 	 	 	3.68E-02	SEMA3A	 
+HCV 796	 	chemical drug	 	 	 	3.68E-02	MAP1LC3B	 
+MAPK8IP1	 	other	 	 	 	4.09E-02	CGA,SLC2A2	 
+HSF1	 	transcription regulator	 	1.987	 	4.67E-01	FXR1,HMGB1,HSP90AA1,HSPA4L,ITGB3BP	 
+NCOR2	 	transcription regulator	 	 	 	2.88E-02	ABCB11,IGF1,UGT2B15,UGT2B17	 
+IL3RA	 	transmembrane receptor	 	 	 	3.68E-02	PROX1	 
+RNA polymerase iii	 	complex	 	 	 	1.07E-02	mir-154,mir-25,mir-506	 
+NCOR1	 	transcription regulator	 	 	 	1.07E-02	ABCB11,IGFBP1,LYZ,PFKFB1,UGT2B15,UGT2B17	 
+DEF6	 	other	 	 	 	4.99E-02	VIM,ZEB1	 
+GPLD1	 	enzyme	 	 	 	3.68E-02	LGALS3BP	 
+SOX4	 	transcription regulator	 	 	 	2.29E-02	CEMIP2,MAP4K5,VIM	 
+F2R	 	G-protein coupled receptor	 	0.617	bias	1.37E-02	ANGPT2,BCL2L11,IGFBP1,IGFBP7,LAMB1,LDHB,TFPI,VIM	 
+AIRE	 	transcription regulator	 	 	 	4.99E-02	TLR1,TLR8	 
+PHB2	 	transcription regulator	 	 	 	8.48E-03	IGFBP1,IL6ST,SOCS5	 
+PPARD	 	ligand-dependent nuclear receptor	 	 	 	4.21E-02	IGFBP1,PLIN2,PTEN,RASGRP1	 
+FAF1	1.898	other	 	 	 	3.68E-02	VIM	 
+KLF9	 	transcription regulator	 	 	 	4.99E-02	CYP7A1,IGFBP1	 
+PTP4A3	 	phosphatase	 	1.131	 	2.94E-03	AURKA,HSP90AA1,ITGB3,PTEN	 
+HOXA10	 	transcription regulator	 	-1.673	 	1.37E-02	ADH4,BCHE,BCL2L11,HSP90AA1,ITGB3,LYZ,MEIS2,TDO2	 
+CLDN1	 	other	 	 	 	7.70E-03	VIM,ZEB1	 
+MSX2	 	transcription regulator	 	 	 	1.07E-02	IGFBP1,PROX1,VIM	 
+SNHG16	1.567	other	 	 	 	7.70E-03	let-7,ZEB1	 
+PKIA	 	other	 	 	 	3.68E-02	IGF1	 
+IRF2	 	transcription regulator	 	-1.195	bias	3.68E-02	ANXA13,DST,FAM111A,IGFBP1,IL6ST,SLC51B,SLCO2B1	 
+PLCD1	 	enzyme	 	 	 	1.83E-02	VIM,ZEB1	 
+PTP4A1	 	phosphatase	 	-1.320	 	1.17E-02	CDPF1,COL6A1,IGFBP7,MAP3K1,PIK3CA,PIK3R1,PPP1R12A,ROCK2,VIM,ZEB1	 
+DCLK1	 	kinase	 	 	 	4.99E-02	KRAS,ZEB1	 
+CD24	 	other	 	-1.794	bias	1.61E-02	DLG1,FXR1,KIF18A,LPP,SYNE2,TFPI,TP53INP1,TRIM2,USO1	 
+INHBA	 	growth factor	 	-0.792	bias	1.51E-02	ANKRD1,CGA,CLASP2,CPNE8,HMGB1,IGF1,KRAS,let-7,mir-19,PTBP2,PTEN	 
+NR1H4	 	ligand-dependent nuclear receptor	 	-1.593	 	1.12E-02	ABCB11,ADH1A,ADH1B,CYP7A1,SLC51B,SLCO1B1,SLCO1B3,TCEA2	 
+DAB2IP	 	other	 	 	 	4.99E-02	VIM,ZEB1	 
+SSB	 	enzyme	 	0.462	bias	1.08E-03	let-7,mir-135,mir-19,mir-25,mir-320,mir-374,mir-515,mir-95	 
+TRAIP	 	enzyme	 	 	 	3.68E-02	TBK1	 
+SUMO2	 	enzyme	 	 	 	9.10E-04	ABCB11,PIK3R1,SLC51B	 
+miR-338-5p (miRNAs w/seed ACAAUAU)	 	mature microRNA	 	 	 	3.68E-02	SPINK1	 
+miR-221-3p (and other miRNAs w/seed GCUACAU)	 	mature microRNA	 	0.919	bias	2.59E-02	BCL2L11,PIK3R1,PTEN,TBK1	 
+miR-521 (miRNAs w/seed ACGCACU)	 	mature microRNA	 	 	 	3.68E-02	ERCC8	 
+miR-17-5p (and other miRNAs w/seed AAAGUGC)	 	mature microRNA	 	0.532	bias	4.16E-02	BCL2L11,BLNK,BMPR2,PTEN,VIM	 
+miR-18a-3p (and other miRNAs w/seed CUGCCCU)	 	mature microRNA	 	 	 	3.68E-02	KRAS	 
+miR-18a-5p (and other miRNAs w/seed AAGGUGC)	 	mature microRNA	 	 	 	4.53E-02	BCL2L11,KRAS,PTEN	 
+miR-192-5p (and other miRNAs w/seed UGACCUA)	 	mature microRNA	 	 	 	2.51E-02	IGF1,ZEB1	 
+miR-19b-3p (and other miRNAs w/seed GUGCAAA)	 	mature microRNA	 	 	 	6.54E-03	BCL2L11,BMPR2,PTEN	 
+mir-183	 	microRNA	 	-0.403	 	5.80E-03	CYP7A1,IGFBP1,PTEN,SAMD9,VIM,ZEB1	 
+miR-218-5p (and other miRNAs w/seed UGUGCUU)	 	mature microRNA	 	 	 	1.94E-02	PIK3C2A,RICTOR,VIM	 
+miR-499-5p (and other miRNAs w/seed UAAGACU)	 	mature microRNA	 	 	 	3.68E-02	IFNAR1	 
+mir-8	 	microRNA	 	0.702	bias	4.09E-02	ADAMTS1,HMGB1,PTEN,ROCK2,TSPAN1,VIM,ZEB1	 
+miR-142-3p (and other miRNAs w/seed GUAGUGU)	 	mature microRNA	 	 	 	4.09E-02	C9orf72,HMGB1	 
+NEDD8	 	enzyme	 	 	 	3.68E-02	IFNAR1	 
+miR-450a-5p (and other miRNAs w/seed UUUGCGA)	 	mature microRNA	 	0.447	bias	8.61E-03	SYDE1,TCF4,VIM,VPS13A,ZEB1	 
+miR-130a-3p (and other miRNAs w/seed AGUGCAA)	 	mature microRNA	 	 	 	4.09E-02	TAC1,ZEB1	 
+mir-182	 	microRNA	 	 	 	2.29E-02	GHR,VIM,ZEB1	 
+miR-92a-3p (and other miRNAs w/seed AUUGCAC)	 	mature microRNA	 	1.051	bias	3.80E-04	BCL2L11,BMPR2,ITGB3,OSBPL8,PTEN	 
+mir-96	 	microRNA	 	-0.440	 	3.19E-03	CYP7A1,GHR,IGFBP1,SAMD9,VIM,ZEB1	 
+NUPR1	 	transcription regulator	 	1.964	 	1.92E-01	AKAP12,ARHGAP11A,ATP8B1,AURKA,C3orf62,CENPI,DLG1,FAM111A,KIF18A,KIF23,MAGI1,MXD1,OSGEPL1,PHTF1,PIK3R1,RYBP,SAMD4A,SKA2,SYNE2,SYTL2,TP53BP2,WNK1	 
+SOX18	 	transcription regulator	 	 	 	1.25E-02	IL6ST,PROX1	 
+DICER1	 	enzyme	 	0.484	 	1.37E-02	ANGPT2,let-7,mir-25,mir-515,PANK3,PROS1,RASGRP1,VIM	 
+NCOA1	-1.419	transcription regulator	 	 	 	2.25E-02	ABCB11,CHD9,CYP7A1,GPBP1,IGF1,LYZ	 
+IFI6	 	other	 	 	 	3.68E-02	BCL2L11	 
+LTBP1	 	other	 	 	 	2.29E-02	BCL2L11,mir-19,mir-25	 
+APAF1	-1.304	other	 	 	 	3.68E-02	VIM	 
+LSP1	 	other	 	 	 	3.68E-02	BCL2L11	 
+USP7	 	peptidase	 	 	 	4.02E-02	FKBP5,PLIN2,SLC2A2	 
+WNT7A	 	cytokine	 	 	 	1.33E-02	LBH,VIM,ZEB1	 
+JARID2	 	transcription regulator	 	 	 	4.99E-02	PTEN,ZEB1	 
+TLE1	 	transcription regulator	 	 	 	4.99E-02	MEIS2,ROCK2	 
+PCBD1	 	transcription regulator	 	 	 	3.68E-02	PAH	 
+REXO4	 	transcription regulator	 	 	 	3.68E-02	CRYZ	 
+WNT5B	 	other	 	 	 	3.68E-02	PROX1	 
+GH1	 	growth factor	 	-0.431	 	2.02E-02	GHR,IGF1,IGFBP1,PTEN,SATB1,UBA7,VIM	 
+EGFR	 	kinase	 	0.616	 	2.76E-02	BCL2L11,CAPZA2,CHKA,CNTN3,COL6A1,DPY19L4,DSC2,GHR,IGF1,LAMB1,LMBRD1,MGAT4A,MT3,PTEN,STEAP4,TNC,TSPAN1,TUSC3,VIM,ZEB1	 
+LINC00570	 	other	 	 	 	3.68E-02	ROCK2	 
+UBQLN1	 	other	 	 	 	4.09E-02	VIM,ZEB1	 
+MAPK9	 	kinase	 	0.728	 	1.22E-02	BDP1,DMD,LGALS3BP,LMO7,LUC7L3,PLIN2,PTEN	 
+XRCC5	 	enzyme	 	 	 	4.09E-02	FKBP5,SEMA3A	 
+CAV1	 	transmembrane receptor	 	-0.703	 	2.84E-02	BCL2L11,PTEN,TFPI,VIM,ZEB1	 
+GPI	 	enzyme	 	 	 	4.99E-02	VIM,ZEB1	 
+AIMP2	 	other	 	 	 	4.09E-02	KRAS,SLC2A2	 
+PTBP3	 	other	 	 	 	2.51E-02	VIM,ZEB1	 
+IGFBP3	 	other	 	 	 	1.94E-02	LYVE1,THBS2,TNC	 
+LCOR	 	transcription regulator	 	 	 	4.99E-02	FKBP5,IGFBP1	 
+PML	-1.227	transcription regulator	 	1.977	 	1.90E-01	ELOVL6,IDI1,LYZ,PIK3C2A,VIM,ZEB1	 
+HOXB5	 	transcription regulator	 	 	 	4.09E-02	ANGPT2,ITGB3	 
+DES	 	other	 	 	 	3.68E-02	ANKRD1	 
+ONECUT1	-2.025	transcription regulator	 	 	 	1.24E-03	ABCA8,ABCB11,ADH1A,ADH1B,C2orf27A/C2orf27B,CCDC198,DHRS4,HTR2B,LUC7L3,ONECUT1,OTUD6B,PHTF1,PON1,PPP2R5A,SPINK1,THAP10,TMEM126B,UGT2B11,UGT2B15,UGT2B17	 
+NTRK2	 	kinase	 	 	 	1.07E-02	BCL2L11,DDX11,TP53BP2,VIM	 
+FOXA2	 	transcription regulator	 	 	 	1.52E-02	IGF1,IGFBP1,mir-122,PROS1,SLCO1B3,UGT2B17	 
+PER1	 	transcription regulator	 	 	 	3.68E-02	BCL2L11	 
+AURKAIP1	 	enzyme	 	 	 	3.68E-02	AURKA	 
+IGFBP2	 	other	 	-0.106	bias	6.46E-03	CHD9,COL14A1,ELOVL6,MALAT1,PTEN,THBS2	 
+HOXA9	 	transcription regulator	 	 	 	4.68E-03	ARHGAP11A,BCL2L11,CDK7,FXR1,HNRNPU,IGF1,LYZ,MAP4K5,OSBPL8,PTPRG,RDX,VIM	 
+NME3	 	kinase	 	 	 	3.68E-02	VIM	 
+EPHB6	 	kinase	 	0.447	 	1.66E-02	BMPR2,FKBP5,let-7,mir-1285,mir-506	 
+TIAM2	 	enzyme	 	 	 	3.68E-02	VIM	 
+CUL7	 	enzyme	 	 	 	2.51E-02	VIM,ZEB1	 
+HNF1B	 	transcription regulator	 	-0.034	 	4.64E-03	BGN,DEFB1,DST,GSTA1,IGFBP1,LAMB1,ONECUT1,SLC2A2,UGT2B17	 
+APC	 	enzyme	 	-1.106	 	8.61E-03	let-7,mir-19,mir-25,mir-515,MXD1	 
+ERG	 	transcription regulator	 	-0.821	bias	1.58E-02	CDK5RAP2,DOCK1,FKBP5,FOLH1,GMFB,HMGB1,MAGI1,RAB2A,RAPH1,RHOJ,ROCK2,VIM,ZEB1	 
+SFN	1.128	other	 	-0.132	bias	1.07E-02	DSC2,FKBP5,VIM,ZEB1	 
+FGF19	 	growth factor	 	 	 	1.83E-02	CYP7A1,PON1	 
+PDE10A	 	enzyme	 	 	 	3.68E-02	TAC1	 
+PRMT1	 	enzyme	 	 	 	4.58E-02	HSP90AA1,SPINK1,VIM,ZEB1	 
+YAP1	 	transcription regulator	 	1.111	bias	1.67E-03	ADAMTS1,ANKRD1,BCL2L11,HOTAIRM1,KIF23,let-7,LINC00662,mir-135,PPP1R3B,PTEN,VIM,ZEB1	 
+DROSHA	 	enzyme	 	 	 	8.48E-03	let-7,mir-320,mir-558	 
+FOXC2	 	transcription regulator	 	-0.927	bias	1.07E-02	ANGPT2,ITGB3,VIM,ZEB1	 
+DOCK3	 	other	 	 	 	3.68E-02	GRIN2D	 
+RFX3	1.160	transcription regulator	 	 	 	3.26E-02	DCDC2,IL5RA	 
+PLAGL1	 	transcription regulator	 	 	 	4.99E-02	PLIN2,PTEN	 
+WNK3	 	kinase	 	 	 	3.68E-02	SLC12A2	 
+NDRG1	 	kinase	 	-0.931	 	4.58E-02	BCL2L11,MAP1LC3B,VIM,ZEB1	 
+TP53BP2	-2.287	other	 	 	 	2.51E-02	VIM,ZEB1	 
+PPID	 	enzyme	 	 	 	1.83E-02	VIM,ZEB1	 
+ILF3	 	transcription regulator	 	 	 	4.99E-02	mir-135,mir-506	 
+EFNA1	 	other	 	-0.447	 	2.79E-02	BACH2,KRAS,NEDD4L,NTM,TRIM2,USP9Y	 
+NOCT	 	transcription regulator	 	 	 	3.68E-02	IGF1	 
+ARL6IP5	 	other	 	 	 	3.68E-02	ITGB3	 
+tazemetostat	 	chemical drug	 	1.976	 	2.99E-01	ADAMTS1,ANKRD1,DOCK1,ELOVL6,HMGB1,MYO1B,PTBP2,RCHY1,SATB1,STAG1,STC2,TNC,ZEB1	 
+FOXO3	 	transcription regulator	 	-0.750	bias	2.90E-02	ANGPT2,AURKA,BCL2L11,HMGCS2,IGF1,IGFBP1,MXD1,PIK3CA,PTEN,RICTOR,SATB1,SKA2,TP53INP1,VIM	 
+RAB7A	 	enzyme	 	 	 	3.68E-02	VIM	 
+PLD2	 	enzyme	 	 	 	4.99E-02	ABCB11,SLC51B	 
+AGO2	-1.056	translation regulator	 	-0.084	bias	1.21E-04	let-7,mir-101,mir-135,mir-154,mir-19,mir-368,mir-374,mir-433,mir-493,mir-548	 
+CYFIP2	 	other	 	 	 	3.68E-02	KRAS	 
+DDB1	 	other	 	 	 	3.26E-02	PTEN,PYGO2	 
+PLCL1	 	enzyme	 	 	 	1.83E-02	BCL2L11,IGFBP1	 
+RFX2	 	transcription regulator	 	 	 	3.26E-02	DCDC2,IL5RA	 
+RARA	 	ligand-dependent nuclear receptor	 	1.890	 	3.64E-01	ADH1C,DNAJC21,GHR,IL5RA,KIF23,LGALS3BP,SAMD9,SNORA72,UBA7,ZNF24	 
+QKI	 	other	 	 	 	2.51E-02	mir-122,VIM	 
+chemotherapy/tretinoin	 	chemical drug	 	 	 	3.68E-02	KAT2B	 
+GTx-560	 	chemical reagent	 	 	 	3.68E-02	PROS1	 
+BAG1	 	other	 	 	 	6.57E-03	BCL2L11,FKBP5,FRK,NEDD4L	 
+FOXN3	 	transcription regulator	 	 	 	2.51E-02	CFAP36,IQCK	 
+ELF5	 	transcription regulator	 	 	 	2.29E-02	FOLH1,MEIS2,UGT2B17	 
+ESX1	 	transcription regulator	 	 	 	3.68E-02	KRAS	 
+GSTT1	 	enzyme	 	 	 	3.68E-02	GSTM3	 
+NDP	 	growth factor	 	 	 	3.68E-02	ANGPT2	 
+ESR1	 	ligand-dependent nuclear receptor	 	-0.826	 	3.05E-03	ABCB11,AP2B1,AURKA,BCL2L11,BMPR2,CALD1,CASP8AP2,CDC42BPA,CDK5RAP2,CEMIP2,CEP43,CYP7A1,DCDC2,DLG1,DNAJC21,DST,EEA1,GHR,HSP90AA1,IGF1,IL6ST,KIF23,KRAS,LAMB1,LAPTM5,LGALS3BP,MAGI1,MAP3K1,MAP3K13,MAP4K5,mir-19,mir-515,PIBF1,PLIN2,PPM1B,PPP1R12A,PRKX,PROS1,PTEN,RDX,RHOQ,RICTOR,RNF41,SAMD9,SLC16A1,SLC35B4,SLCO1B1,SMC3,SNORA72,SSX2IP,STAG2,STC2,TAOK1,THBS3,TRIM23,UGT2B15,VIM,VRK2,WNK1,XRN1,ZNF24	 
+RAD21	 	transcription regulator	 	 	 	3.54E-02	BMPR2,VIM,ZEB1	 
+ECM1	 	transporter	 	 	 	4.99E-02	VIM,ZEB1	 
+NEUROD2	 	transcription regulator	 	 	 	3.95E-03	DLG4,ZEB1	 
+BGLT3	 	other	 	 	 	3.68E-02	PTEN	 
+SOCS2	 	other	 	 	 	4.99E-02	GHR,IGF1	 
+GDC-0623	 	chemical drug	 	 	 	3.68E-02	BCL2L11	 
+IPP-204106N	 	chemical drug	 	 	 	3.68E-02	ANGPT2	 
+lithocholic acid acetate	 	chemical reagent	 	 	 	3.68E-02	CYP7A1	 
+MALAT1	 	other	 	 	 	3.26E-02	KRAS,VIM	 
+4-[(4'-chloro-2'-fluoro)phenylamino]-6,7-dimethoxyquinazoline	 	chemical - kinase inhibitor	 	 	 	3.68E-02	ANGPT2	 
+sirolimus	 	chemical drug	 	0.980	bias	4.75E-03	BCL2L11,CALD1,DLG4,ERCC8,HMGB1,HMGCS2,HNRNPU,HSP90AA1,IDI1,IGFBP1,LDHB,let-7,MAP4K5,mir-1285,mir-135,mir-154,mir-19,mir-368,mir-506,mir-95,NPM1,PIK3R1,RHOQ,RPL5,TP53INP1	 
+LG100268	 	chemical reagent	 	 	 	1.07E-02	ABCB11,PLIN2,PTEN	 
+raloxifene	 	chemical drug	 	-0.604	 	2.18E-02	BLNK,FMO5,FOLH1,GNS,IGF1,ITGB3,KYNU,LAMB1,MYO1B,RAB2A,ROCK2	 
+GW 4064	 	chemical toxicant	 	-1.315	bias	3.50E-02	ABCB11,ADH1A,ADH1B,PON1	 
+tributyltin	 	chemical reagent	 	 	 	1.83E-02	GSTM2,HSP90AA1	 
+methylselenic acid	 	chemical reagent	 	 	 	3.76E-02	ADAMTS1,AURKA,FKBP5,IGF1,ITGB3BP,MXD1,NEDD4L,PPM1B,PPP2R5A,PTEN,RAB28,RHOQ,UGT2B15,UGT2B17,UGT2B7	 
+ketoconazole	 	chemical drug	 	 	 	2.67E-02	GSTA1,GSTA2,SLCO1B1	 
+oxaliplatin	 	chemical drug	 	-0.975	 	1.93E-02	BCL2L11,let-7,mir-25,mir-28,mir-320,VIM	 
+rofecoxib	 	chemical drug	 	 	 	2.51E-02	ANGPT2,BCL2L11	 
+flutamide	 	chemical drug	 	 	 	2.94E-03	DDX25,FOLH1,IGF1,let-7	 
+roflumilast	 	chemical drug	 	 	 	3.68E-02	PDE4B	 
+bilirubin	 	chemical - endogenous mammalian	 	 	 	1.62E-02	GSTA1,GSTA2,SLCO1B1	 
+phenobarbital	 	chemical drug	 	-1.000	bias	2.59E-02	CYP4B1,GSTA1,GSTA2,SLCO1B1	 
+resveratrol	 	chemical drug	 	-1.970	 	1.00E00	CYP7A1,GSTA1,IGFBP1,MALAT1,PON1,RICTOR,SLC2A2,ZEB1	 
+SP2509	 	chemical reagent	 	1.976	 	3.36E-01	ADAMTS1,ANKRD1,DOCK1,ELOVL6,HMGB1,MYO1B,PTBP2,RCHY1,SATB1,STAG1,STC2,TNC,ZEB1	 
+dBET6	 	chemical reagent	 	 	 	2.51E-02	PDE4B,PDIK1L	 
+ziprasidone	 	chemical drug	 	 	 	4.09E-02	HMGCS1,SC5D	 
+miR-508-3p inhibitor	 	chemical reagent	 	 	 	2.51E-02	VIM,ZEB1	 
+pepstatin	 	chemical - protease inhibitor	 	 	 	4.09E-02	MAP1LC3B,STC2	 
+midostaurin	 	chemical drug	 	 	 	3.26E-02	BCL2L11,VIM	 
+alpha-hydroxyglutarate	 	chemical - endogenous mammalian	 	 	 	1.83E-02	VIM,ZEB1	 
+oleoyl-coenzyme A	 	chemical - endogenous mammalian	 	 	 	3.68E-02	SHBG	 
+tridecanoic acid	 	chemical - endogenous mammalian	 	 	 	3.52E-03	MXD1,PTEN,TNC	 
+noladin ether	 	chemical - endogenous mammalian	 	 	 	7.70E-03	CREB3L3,CYP7A1	 
+desmosterol	 	chemical - endogenous mammalian	 	 	 	1.83E-02	ARG1,CXCR1	 
+metribolone	 	chemical reagent	 	-0.197	bias	1.34E-02	ADAMTS1,ADH1C,AKAP12,CRYZ,DLAT,FKBP5,FOLH1,GFPT1,GRIP1,HMGCS1,HMGCS2,IDI1,IGF1,let-7,mir-19,NEDD4L,PGM3,PROS1,SLC30A9,SLC35A3,SYTL2,TBK1,TRPS1,UGT2B15,ZNF121	 
+bile salt	 	chemical - endogenous mammalian	 	 	 	1.25E-02	ABCB11,SLCO1B1	 
+dihydrotestosterone	 	chemical - endogenous mammalian	 	-0.989	bias	9.69E-03	ADAMTS1,BGN,FKBP5,FRK,HECTD2,HNRNPU,IGF1,IGFBP7,IL6ST,IQGAP2,mir-101,NEDD4L,PROS1,SLCO1B1,TFPI,UGT2B15,UGT2B17,VIM,ZEB1	 
+22(R)-hydroxycholesterol	 	chemical - endogenous mammalian	 	-1.264	bias	2.07E-02	ABCB11,ANGPTL3,CYP7A1,PON1	 
+Zn2+	 	chemical - endogenous mammalian	 	 	 	1.83E-02	BCL2L11,PTEN	 
