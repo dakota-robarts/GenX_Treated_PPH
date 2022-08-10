@@ -5,7 +5,7 @@ library(RColorBrewer)
 library(readr)
 library(xlsx)
 
-setwd("D:/OneDrive/Lab File/GenX/RNA Gene Array/Newest Analysis/Dose Response/IPA/Upstream Regs")
+setwd(".../IPA/Upstream Regs")
 
 Upstream_100uM <- read_excel("Upstream_100uM.xls", 
                              skip = 1)
