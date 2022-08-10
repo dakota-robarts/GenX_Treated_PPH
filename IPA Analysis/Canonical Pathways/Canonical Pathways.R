@@ -1,7 +1,7 @@
 library(readr)
 library(ggplot2)
 
-setwd("C:/Users/codyr/OneDrive/Lab File/GenX/RNA Gene Array/Newest Analysis/IPA Analysis/Canonical Pathways")
+setwd(".../IPA Analysis/Canonical Pathways")
 
 CP0.1um=read_delim("0.1um_Canonical.txt", 
                    "\t", escape_double = FALSE, trim_ws = TRUE, 
