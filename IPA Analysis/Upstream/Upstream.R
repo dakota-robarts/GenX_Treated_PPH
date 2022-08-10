@@ -3,7 +3,7 @@ library(ggplot2)
 library(extrafont)
 library(dplyr)
 
-setwd("D:/OneDrive/Lab File/GenX/RNA Gene Array/Newest Analysis/IPA Analysis/Upstream")
+setwd(".../IPA Analysis/Upstream")
 
 UR0.1=read_delim("0.1um_Upstream.txt", 
                  "\t", escape_double = FALSE, trim_ws = TRUE, 
