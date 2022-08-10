@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	100 uM	0.1 uM	10 uM
+AID				ARRY3X	ARRY1X	ARRY2X
+EWEIGHT				1	1	1
+GENE6X	GO:0031647	GO:0031647: regulation of protein stability	1	0.124	-0.000	-0.000
+GENE20X	GO:0051186	GO:0051186: cofactor metabolic process	1	0.123	-0.000	-0.000
+GENE7X	GO:0022613	GO:0022613: ribonucleoprotein complex biogenesis	1	0.306	-0.000	-0.000
+GENE2X	GO:0043281	GO:0043281: regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	0.182	-0.000	-0.000
+GENE19X	ko05205	ko05205: Proteoglycans in cancer	1	0.202	-0.000	-0.000
+GENE18X	GO:0042180	GO:0042180: cellular ketone metabolic process	1	0.249	-0.000	-0.000
+GENE5X	R-HSA-8953854	R-HSA-8953854: Metabolism of RNA	1	0.261	-0.000	-0.000
+GENE16X	M255	M255: PID HIF1 TFPATHWAY	1	0.258	-0.000	-0.000
+GENE4X	R-HSA-211897	R-HSA-211897: Cytochrome P450 - arranged by substrate type	1	0.300	0.151	-0.000
+GENE9X	ko04151	ko04151: PI3K-Akt signaling pathway	1	0.198	0.151	-0.000
+GENE12X	ko05222	ko05222: Small cell lung cancer	1	0.208	0.160	-0.000
+GENE1X	R-HSA-5688426	R-HSA-5688426: Deubiquitination	1	0.108	0.266	-0.000
+GENE17X	R-HSA-1640170	R-HSA-1640170: Cell Cycle	1	0.140	0.132	-0.000
+GENE11X	R-HSA-211859	R-HSA-211859: Biological oxidations	1	0.178	0.223	0.395
+GENE15X	GO:0019216	GO:0019216: regulation of lipid metabolic process	1	0.231	0.142	0.163
+GENE3X	R-HSA-556833	R-HSA-556833: Metabolism of lipids	1	0.352	0.163	0.155
+GENE10X	GO:0032787	GO:0032787: monocarboxylic acid metabolic process	1	0.269	0.180	0.289
+GENE8X	hsa00982	hsa00982: Drug metabolism - cytochrome P450	1	-0.000	0.144	0.593
+GENE13X	GO:0040017	GO:0040017: positive regulation of locomotion	1	-0.000	0.267	0.122
+GENE14X	R-HSA-2990846	R-HSA-2990846: SUMOylation	1	-0.000	0.139	0.141

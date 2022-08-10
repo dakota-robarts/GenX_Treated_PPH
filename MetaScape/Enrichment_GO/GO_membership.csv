@@ -1,0 +1,895 @@
+_MEMBER_0.1 uM,_MEMBER_10 uM,_MEMBER_100 uM,_LogP_0.1 uM,_LogP_10 uM,_LogP_100 uM,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,1,1,-3.6,-5.8,-5.4,GO:0032787,monocarboxylic acid metabolic process,M111,3,0
+1,1,1,-3.3,-3.1,-7,R-HSA-556833,Metabolism of lipids,M111,3,0
+1,1,1,-2.8,-3.3,-4.6,GO:0019216,regulation of lipid metabolic process,M111,3,0
+1,1,1,-3,-7.1,-2.3,hsa00830,Retinol metabolism,M111,3,0
+1,1,1,-4.5,-7.9,-3.6,R-HSA-211859,Biological oxidations,M111,3,0
+1,1,1,-3.3,-3.5,-4.5,R-HSA-211945,Phase I - Functionalization of compounds,M111,3,0
+0,1,1,0,-2.9,-2.5,GO:0006644,phospholipid metabolic process,M011,2,0
+1,0,1,-3.1,0,-4.2,GO:0001676,long-chain fatty acid metabolic process,M101,2,0
+0,1,1,0,-2.6,-2.3,GO:0033875,ribonucleoside bisphosphate metabolic process,M011,2,0
+1,1,0,-2.1,-5.2,0,R-HSA-156588,Glucuronidation,M110,2,0
+0,1,1,0,-3.3,-2,GO:0019218,regulation of steroid metabolic process,M011,2,0
+1,0,1,-2.8,0,-4.1,hsa05222,Small cell lung cancer,M101,2,0
+1,0,1,-2.5,0,-2.6,GO:0019369,arachidonic acid metabolic process,M101,2,0
+1,0,1,-2.6,0,-2.8,ko04120,Ubiquitin mediated proteolysis,M101,2,0
+1,1,0,-2.8,-2.8,0,R-HSA-2990846,SUMOylation,M110,2,0
+1,0,1,-2.9,0,-3.1,hsa05200,Pathways in cancer,M101,2,0
+0,1,1,0,-2,-2.5,GO:0044282,small molecule catabolic process,M011,2,0
+0,1,1,0,-2.6,-2.4,GO:1902652,secondary alcohol metabolic process,M011,2,0
+1,0,1,-3,0,-2.2,R-HSA-211979,Eicosanoids,M101,2,0
+1,0,1,-3.9,0,-2,GO:0016579,protein deubiquitination,M101,2,0
+1,0,1,-2.5,0,-2.8,R-HSA-9018677,Biosynthesis of DHA-derived SPMs,M101,2,0
+1,0,1,-2.1,0,-2.2,GO:1900118,negative regulation of execution phase of apoptosis,M101,2,0
+0,1,1,0,-2.6,-2.3,GO:0034032,purine nucleoside bisphosphate metabolic process,M011,2,0
+1,0,1,-5.7,0,-2.9,GO:0006633,fatty acid biosynthetic process,M101,2,0
+1,1,0,-2.4,-2.4,0,GO:0051235,maintenance of location,M110,2,0
+1,1,0,-2.8,-2.2,0,ko04630,Jak-STAT signaling pathway,M110,2,0
+1,0,1,-2.4,0,-2.6,R-HSA-9018678,Biosynthesis of specialized proresolving mediators (SPMs),M101,2,0
+1,0,1,-2,0,-2.1,GO:0030307,positive regulation of cell growth,M101,2,0
+0,1,1,0,-2.8,-2.8,GO:0006650,glycerophospholipid metabolic process,M011,2,0
+1,0,1,-2.3,0,-2,GO:1900117,regulation of execution phase of apoptosis,M101,2,0
+1,1,0,-4,-2,0,R-HSA-211935,Fatty acids,M110,2,0
+1,1,0,-4.6,-2.8,0,GO:0051272,positive regulation of cellular component movement,M110,2,0
+1,0,1,-3.2,0,-4.2,ko05222,Small cell lung cancer,M101,2,0
+0,1,1,0,-2.7,-4.2,ko00071,Fatty acid degradation,M011,2,0
+1,0,1,-2.6,0,-2.8,R-HSA-1640170,Cell Cycle,M101,2,0
+1,1,0,-2.3,-6.4,0,ko00830,Retinol metabolism,M110,2,0
+1,0,1,-2.3,0,-2.3,R-HSA-195721,Signaling by WNT,M101,2,0
+1,0,1,-2.6,0,-2.8,hsa04120,Ubiquitin mediated proteolysis,M101,2,0
+1,1,0,-2.8,-9.4,0,ko00980,Metabolism of xenobiotics by cytochrome P450,M110,2,0
+0,1,1,0,-2.6,-2.3,GO:0033865,nucleoside bisphosphate metabolic process,M011,2,0
+0,1,1,0,-2.5,-3.8,GO:0030258,lipid modification,M011,2,0
+0,1,1,0,-2.2,-2.1,hsa04960,Aldosterone-regulated sodium reabsorption,M011,2,0
+1,0,1,-2.1,0,-3.4,GO:1903827,regulation of cellular protein localization,M101,2,0
+1,0,1,-4.5,0,-2.8,GO:0046394,carboxylic acid biosynthetic process,M101,2,0
+1,0,1,-2.1,0,-3.4,GO:0006839,mitochondrial transport,M101,2,0
+0,1,1,0,-2.7,-2.4,GO:0008203,cholesterol metabolic process,M011,2,0
+1,0,1,-3,0,-4,ko04151,PI3K-Akt signaling pathway,M101,2,0
+1,1,0,-5.1,-2.5,0,GO:0030335,positive regulation of cell migration,M110,2,0
+0,1,1,0,-2.8,-2.5,GO:0016125,sterol metabolic process,M011,2,0
+1,0,1,-4.1,0,-3.4,GO:0008610,lipid biosynthetic process,M101,2,0
+1,0,1,-3,0,-6,R-HSA-211897,Cytochrome P450 - arranged by substrate type,M101,2,0
+1,0,1,-3.6,0,-2.4,GO:0070646,protein modification by small protein removal,M101,2,0
+0,1,1,0,-2.9,-2.6,GO:0046488,phosphatidylinositol metabolic process,M011,2,0
+1,1,0,-2.9,-12,0,hsa00982,Drug metabolism - cytochrome P450,M110,2,0
+1,1,0,-4.8,-2.7,0,GO:2000147,positive regulation of cell motility,M110,2,0
+0,1,1,0,-2.1,-2,R-HSA-189483,Heme degradation,M011,2,0
+1,0,1,-2.1,0,-2.2,GO:0042738,exogenous drug catabolic process,M101,2,0
+1,0,1,-4.5,0,-2.8,GO:0016053,organic acid biosynthetic process,M101,2,0
+0,1,1,0,-2.6,-3.7,ko04510,Focal adhesion,M011,2,0
+1,0,1,-4.3,0,-2.7,GO:0072330,monocarboxylic acid biosynthetic process,M101,2,0
+1,1,0,-3,-2,0,GO:0046890,regulation of lipid biosynthetic process,M110,2,0
+1,0,1,-2.9,0,-2.4,M183,PID IL6 7 PATHWAY,M101,2,0
+1,0,1,-2,0,-4.2,GO:0046486,glycerolipid metabolic process,M101,2,0
+0,1,1,0,-2.1,-2.6,GO:0008654,phospholipid biosynthetic process,M011,2,0
+1,1,0,-2,-2.2,0,GO:0140058,neuron projection arborization,M110,2,0
+1,1,0,-3.2,-3.2,0,GO:0042537,benzene-containing compound metabolic process,M110,2,0
+1,0,1,-2.8,0,-5.8,GO:0006631,fatty acid metabolic process,M101,2,0
+1,1,0,-2.7,-9.2,0,hsa00980,Metabolism of xenobiotics by cytochrome P450,M110,2,0
+1,0,1,-2.7,0,-2.2,R-HSA-3700989,Transcriptional Regulation by TP53,M101,2,0
+0,1,1,0,-2.6,-4,hsa00071,Fatty acid degradation,M011,2,0
+1,0,1,-2,0,-2.3,GO:0051169,nuclear transport,M101,2,0
+1,0,1,-2.4,0,-2.9,GO:0031589,cell-substrate adhesion,M101,2,0
+1,1,0,-2.4,-8.8,0,hsanan01,drug metabolism,M110,2,0
+1,1,0,-5.3,-2.4,0,GO:0040017,positive regulation of locomotion,M110,2,0
+0,1,1,0,-2.1,-3,R-HSA-68886,M Phase,M011,2,0
+1,0,1,-3,0,-3.3,hsa04151,PI3K-Akt signaling pathway,M101,2,0
+0,1,1,0,-2.3,-2.2,ko04960,Aldosterone-regulated sodium reabsorption,M011,2,0
+0,1,1,0,-5.1,-2.6,GO:0008202,steroid metabolic process,M011,2,0
+0,1,1,0,-2.2,-2.1,M226,PID VEGFR1 PATHWAY,M011,2,0
+0,1,1,0,-2.9,-2.4,GO:1901615,organic hydroxy compound metabolic process,M011,2,0
+1,0,1,-2,0,-2.3,GO:0006913,nucleocytoplasmic transport,M101,2,0
+0,1,1,0,-2.3,-3.3,hsa04510,Focal adhesion,M011,2,0
+1,1,0,-2.9,-12,0,ko00982,Drug metabolism - cytochrome P450,M110,2,0
+0,1,1,0,-2.5,-2.3,R-HSA-373760,L1CAM interactions,M011,2,0
+0,1,1,0,-2.1,-2,M135,PID IL5 PATHWAY,M011,2,0
+0,1,1,0,-2.3,-2.1,R-HSA-194138,Signaling by VEGF,M011,2,0
+1,1,0,-2.9,-3,0,R-HSA-3108232,SUMO E3 ligases SUMOylate target proteins,M110,2,0
+1,0,1,-5.3,0,-2.2,R-HSA-5688426,Deubiquitination,M101,2,0
+1,0,1,-2.1,0,-4.1,GO:0019217,regulation of fatty acid metabolic process,M101,2,0
+0,1,1,0,-2.1,-2.4,GO:0006661,phosphatidylinositol biosynthetic process,M011,2,0
+1,0,1,-2.4,0,-2.3,GO:0042060,wound healing,M101,2,0
+0,0,1,0,0,-2.4,GO:0006626,protein targeting to mitochondrion,M001,1,0
+0,1,0,0,-2.1,0,GO:0018208,peptidyl-proline modification,M010,1,0
+1,0,0,-2.3,0,0,hsa05034,Alcoholism,M100,1,0
+0,0,1,0,0,-2.8,M00065,"GPI-anchor biosynthesis, core oligosaccharide",M001,1,0
+0,0,1,0,0,-2.9,GO:0097190,apoptotic signaling pathway,M001,1,0
+0,0,1,0,0,-3,GO:0006397,mRNA processing,M001,1,0
+0,0,1,0,0,-2,ko04918,Thyroid hormone synthesis,M001,1,0
+0,0,1,0,0,-3.1,ko01212,Fatty acid metabolism,M001,1,0
+0,0,1,0,0,-2.2,R-HSA-68875,Mitotic Prophase,M001,1,0
+1,0,0,-2.1,0,0,R-HSA-2559583,Cellular Senescence,M100,1,0
+0,0,1,0,0,-2.2,GO:0009611,response to wounding,M001,1,0
+0,0,1,0,0,-2.2,GO:0034109,homotypic cell-cell adhesion,M001,1,0
+0,1,0,0,-2.7,0,GO:1901137,carbohydrate derivative biosynthetic process,M010,1,0
+1,0,0,-4.5,0,0,R-HSA-5689880,Ub-specific processing proteases,M100,1,0
+0,1,0,0,-3.4,0,hsa00140,Steroid hormone biosynthesis,M010,1,0
+1,0,0,-2.1,0,0,GO:0042982,amyloid precursor protein metabolic process,M100,1,0
+0,0,1,0,0,-2.3,GO:0070584,mitochondrion morphogenesis,M001,1,0
+0,0,1,0,0,-4.5,GO:0042797,tRNA transcription by RNA polymerase III,M001,1,0
+0,1,0,0,-2.8,0,ko00140,Steroid hormone biosynthesis,M010,1,0
+0,0,1,0,0,-2,GO:0006635,fatty acid beta-oxidation,M001,1,0
+1,0,0,-2.9,0,0,R-HSA-3214815,HDACs deacetylate histones,M100,1,0
+0,1,0,0,-2.1,0,GO:0071361,cellular response to ethanol,M010,1,0
+1,0,0,-2.5,0,0,GO:0002221,pattern recognition receptor signaling pathway,M100,1,0
+1,0,0,-2.3,0,0,R-HSA-8849932,Synaptic adhesion-like molecules,M100,1,0
+1,0,0,-2.8,0,0,R-HSA-774815,Nucleosome assembly,M100,1,0
+1,0,0,-2.7,0,0,GO:0003179,heart valve morphogenesis,M100,1,0
+0,0,1,0,0,-5.8,GO:0016072,rRNA metabolic process,M001,1,0
+0,1,0,0,-2.6,0,ko00072,Synthesis and degradation of ketone bodies,M010,1,0
+0,1,0,0,-2.1,0,GO:0006695,cholesterol biosynthetic process,M010,1,0
+1,0,0,-2.1,0,0,GO:0035850,epithelial cell differentiation involved in kidney development,M100,1,0
+0,1,0,0,-2.2,0,GO:1900103,positive regulation of endoplasmic reticulum unfolded protein response,M010,1,0
+0,0,1,0,0,-3.2,R-HSA-5621481,C-type lectin receptors (CLRs),M001,1,0
+0,0,1,0,0,-2.4,GO:0043312,neutrophil degranulation,M001,1,0
+0,1,0,0,-2.2,0,R-HSA-1643713,Signaling by EGFR in Cancer,M010,1,0
+0,1,0,0,-2.3,0,GO:0046164,alcohol catabolic process,M010,1,0
+1,0,0,-2.6,0,0,GO:2000758,positive regulation of peptidyl-lysine acetylation,M100,1,0
+1,0,0,-2.5,0,0,GO:0006978,"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",M100,1,0
+0,0,1,0,0,-4,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,M001,1,0
+1,0,0,-2.7,0,0,M45,PID CD40 PATHWAY,M100,1,0
+0,0,1,0,0,-2.6,GO:0006402,mRNA catabolic process,M001,1,0
+0,0,1,0,0,-2.5,hsa04660,T cell receptor signaling pathway,M001,1,0
+1,0,0,-2,0,0,GO:0072395,signal transduction involved in cell cycle checkpoint,M100,1,0
+0,1,0,0,-2.3,0,hsa00072,Synthesis and degradation of ketone bodies,M010,1,0
+0,0,1,0,0,-3.1,GO:0019439,aromatic compound catabolic process,M001,1,0
+0,0,1,0,0,-2.3,GO:0000460,maturation of 5.8S rRNA,M001,1,0
+1,0,0,-2.2,0,0,GO:0045638,negative regulation of myeloid cell differentiation,M100,1,0
+0,0,1,0,0,-3.1,R-HSA-4086398,Ca2+ pathway,M001,1,0
+0,0,1,0,0,-2.8,M286,PID TGFBR PATHWAY,M001,1,0
+1,0,0,-2.6,0,0,GO:0043112,receptor metabolic process,M100,1,0
+1,0,0,-3.9,0,0,GO:1901163,regulation of trophoblast cell migration,M100,1,0
+0,1,0,0,-2.4,0,GO:0009310,amine catabolic process,M010,1,0
+1,0,0,-2.4,0,0,GO:0010561,negative regulation of glycoprotein biosynthetic process,M100,1,0
+0,1,0,0,-2.4,0,GO:0090130,tissue migration,M010,1,0
+0,0,1,0,0,-2.4,R-HSA-166166,MyD88-independent TLR4 cascade ,M001,1,0
+1,0,0,-2,0,0,GO:0034248,regulation of cellular amide metabolic process,M100,1,0
+1,0,0,-2.1,0,0,R-HSA-977606,Regulation of Complement cascade,M100,1,0
+0,0,1,0,0,-2.2,GO:0051223,regulation of protein transport,M001,1,0
+0,0,1,0,0,-2.6,GO:0016570,histone modification,M001,1,0
+1,0,0,-2.8,0,0,GO:0035066,positive regulation of histone acetylation,M100,1,0
+0,0,1,0,0,-2.7,hsa05146,Amoebiasis,M001,1,0
+1,0,0,-3.2,0,0,GO:0006342,chromatin silencing,M100,1,0
+0,0,1,0,0,-2.7,GO:0032355,response to estradiol,M001,1,0
+0,1,0,0,-2.1,0,GO:0070252,actin-mediated cell contraction,M010,1,0
+1,0,0,-4,0,0,ko05322,Systemic lupus erythematosus,M100,1,0
+0,1,0,0,-2.7,0,GO:0010632,regulation of epithelial cell migration,M010,1,0
+1,0,0,-3.3,0,0,GO:0001558,regulation of cell growth,M100,1,0
+1,0,0,-2.1,0,0,GO:0061180,mammary gland epithelium development,M100,1,0
+1,0,0,-3.1,0,0,GO:0007050,cell cycle arrest,M100,1,0
+0,0,1,0,0,-2.8,hsa05161,Hepatitis B,M001,1,0
+0,0,1,0,0,-3.3,GO:0034470,ncRNA processing,M001,1,0
+0,0,1,0,0,-2.4,GO:0006401,RNA catabolic process,M001,1,0
+0,1,0,0,-2.3,0,GO:0030208,dermatan sulfate biosynthetic process,M010,1,0
+0,0,1,0,0,-2.8,ko04660,T cell receptor signaling pathway,M001,1,0
+0,1,0,0,-2.5,0,GO:0098901,regulation of cardiac muscle cell action potential,M010,1,0
+1,0,0,-2.4,0,0,GO:0043410,positive regulation of MAPK cascade,M100,1,0
+0,0,1,0,0,-3.8,CORUM:351,Spliceosome,M001,1,0
+0,0,1,0,0,-2.2,R-HSA-5653656,Vesicle-mediated transport,M001,1,0
+0,0,1,0,0,-2.7,GO:0022618,ribonucleoprotein complex assembly,M001,1,0
+0,0,1,0,0,-3.4,GO:0006869,lipid transport,M001,1,0
+1,0,0,-3.7,0,0,GO:0097300,programmed necrotic cell death,M100,1,0
+0,1,0,0,-2.3,0,GO:0018105,peptidyl-serine phosphorylation,M010,1,0
+0,0,1,0,0,-3,GO:0003308,negative regulation of Wnt signaling pathway involved in heart development,M001,1,0
+0,0,1,0,0,-2.4,GO:0001101,response to acid chemical,M001,1,0
+0,0,1,0,0,-3.3,GO:0006753,nucleoside phosphate metabolic process,M001,1,0
+1,0,0,-3.8,0,0,GO:0031055,chromatin remodeling at centromere,M100,1,0
+0,0,1,0,0,-3,GO:0070482,response to oxygen levels,M001,1,0
+0,0,1,0,0,-3,GO:0002933,lipid hydroxylation,M001,1,0
+0,0,1,0,0,-3,GO:0035405,histone-threonine phosphorylation,M001,1,0
+0,0,1,0,0,-2.8,R-HSA-211976,Endogenous sterols,M001,1,0
+0,0,1,0,0,-2.2,GO:0072527,pyrimidine-containing compound metabolic process,M001,1,0
+0,0,1,0,0,-2,GO:0070848,response to growth factor,M001,1,0
+0,1,0,0,-3,0,R-HSA-9665348,Signaling by ERBB2 ECD mutants,M010,1,0
+0,0,1,0,0,-3,GO:0071166,ribonucleoprotein complex localization,M001,1,0
+0,1,0,0,-2.1,0,GO:0051209,release of sequestered calcium ion into cytosol,M010,1,0
+0,0,1,0,0,-3.7,GO:0010876,lipid localization,M001,1,0
+1,0,0,-2.6,0,0,GO:0034724,DNA replication-independent nucleosome organization,M100,1,0
+0,0,1,0,0,-2.4,GO:0046677,response to antibiotic,M001,1,0
+1,0,0,-2.6,0,0,GO:0042759,long-chain fatty acid biosynthetic process,M100,1,0
+1,0,0,-2.5,0,0,GO:0042984,regulation of amyloid precursor protein biosynthetic process,M100,1,0
+0,1,0,0,-2.3,0,GO:0005975,carbohydrate metabolic process,M010,1,0
+1,0,0,-2.2,0,0,R-HSA-381676,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,M100,1,0
+1,0,0,-3.1,0,0,GO:0061641,CENP-A containing chromatin organization,M100,1,0
+1,0,0,-2.4,0,0,ko00620,Pyruvate metabolism,M100,1,0
+0,0,1,0,0,-3.4,hsa_M00087,beta-Oxidation,M001,1,0
+0,1,0,0,-2.2,0,GO:0001938,positive regulation of endothelial cell proliferation,M010,1,0
+0,1,0,0,-2.1,0,hsa05214,Glioma,M010,1,0
+0,0,1,0,0,-2.6,GO:0032239,regulation of nucleobase-containing compound transport,M001,1,0
+1,0,0,-2.6,0,0,R-HSA-194315,Signaling by Rho GTPases,M100,1,0
+0,0,1,0,0,-4.4,GO:0010638,positive regulation of organelle organization,M001,1,0
+1,0,0,-3.1,0,0,R-HSA-3214847,HATs acetylate histones,M100,1,0
+1,0,0,-2.7,0,0,R-HSA-5689603,UCH proteinases,M100,1,0
+0,1,0,0,-2.6,0,R-HSA-8853334,Signaling by FGFR3 fusions in cancer,M010,1,0
+0,0,1,0,0,-2.5,CORUM:1332,Large Drosha complex,M001,1,0
+0,0,1,0,0,-3.1,hsa01212,Fatty acid metabolism,M001,1,0
+0,0,1,0,0,-5.2,M255,PID HIF1 TFPATHWAY,M001,1,0
+0,1,0,0,-2.1,0,GO:0031937,positive regulation of chromatin silencing,M010,1,0
+1,0,0,-2.5,0,0,R-HSA-2559582,Senescence-Associated Secretory Phenotype (SASP),M100,1,0
+1,0,0,-3.7,0,0,R-HSA-1912408,Pre-NOTCH Transcription and Translation,M100,1,0
+0,1,0,0,-2.2,0,GO:0032878,regulation of establishment or maintenance of cell polarity,M010,1,0
+0,0,1,0,0,-2.4,R-HSA-199991,Membrane Trafficking,M001,1,0
+0,0,1,0,0,-2.4,hsa04550,Signaling pathways regulating pluripotency of stem cells,M001,1,0
+0,0,1,0,0,-2.5,GO:1903008,organelle disassembly,M001,1,0
+0,0,1,0,0,-2.8,GO:1901570,fatty acid derivative biosynthetic process,M001,1,0
+1,0,0,-3.4,0,0,GO:0042304,regulation of fatty acid biosynthetic process,M100,1,0
+0,0,1,0,0,-2.3,R-HSA-202403,TCR signaling,M001,1,0
+0,0,1,0,0,-2.7,ko05169,Epstein-Barr virus infection,M001,1,0
+0,1,0,0,-3.3,0,GO:0006063,uronic acid metabolic process,M010,1,0
+0,1,0,0,-3.5,0,R-HSA-442982,Ras activation upon Ca2+ influx through NMDA receptor,M010,1,0
+0,0,1,0,0,-2.5,hsa05160,Hepatitis C,M001,1,0
+0,1,0,0,-2.6,0,GO:0051493,regulation of cytoskeleton organization,M010,1,0
+1,0,0,-2.1,0,0,GO:0072401,signal transduction involved in DNA integrity checkpoint,M100,1,0
+1,0,0,-2.1,0,0,GO:0072422,signal transduction involved in DNA damage checkpoint,M100,1,0
+0,0,1,0,0,-5.6,GO:0042254,ribosome biogenesis,M001,1,0
+1,0,0,-3.2,0,0,R-HSA-5693532,DNA Double-Strand Break Repair,M100,1,0
+1,0,0,-2.4,0,0,GO:0046889,positive regulation of lipid biosynthetic process,M100,1,0
+0,0,1,0,0,-3.6,R-HSA-211999,CYP2E1 reactions,M001,1,0
+0,0,1,0,0,-2.2,hsa04750,inflammatory mediator regulation of trp channels,M001,1,0
+0,0,1,0,0,-2.3,R-HSA-1168372,Downstream signaling events of B Cell Receptor (BCR),M001,1,0
+0,0,1,0,0,-2.6,GO:0034110,regulation of homotypic cell-cell adhesion,M001,1,0
+0,0,1,0,0,-2.2,ko04012,ErbB signaling pathway,M001,1,0
+0,0,1,0,0,-2.8,GO:0002274,myeloid leukocyte activation,M001,1,0
+0,0,1,0,0,-2.7,ko04659,Th17 cell differentiation,M001,1,0
+0,0,1,0,0,-2.1,GO:0042176,regulation of protein catabolic process,M001,1,0
+1,0,0,-2.1,0,0,M139,PID MYC PATHWAY,M100,1,0
+0,0,1,0,0,-2.1,GO:0009743,response to carbohydrate,M001,1,0
+1,0,0,-2.3,0,0,GO:0019722,calcium-mediated signaling,M100,1,0
+1,0,0,-2.2,0,0,R-HSA-5693571,Nonhomologous End-Joining (NHEJ),M100,1,0
+0,1,0,0,-2,0,GO:0006027,glycosaminoglycan catabolic process,M010,1,0
+1,0,0,-2.3,0,0,GO:0032760,positive regulation of tumor necrosis factor production,M100,1,0
+0,0,1,0,0,-2.5,GO:0000447,"endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",M001,1,0
+0,0,1,0,0,-2.2,GO:0051168,nuclear export,M001,1,0
+0,0,1,0,0,-2.2,hsa05223,Non-small cell lung cancer,M001,1,0
+0,0,1,0,0,-3,GO:0016569,covalent chromatin modification,M001,1,0
+0,0,1,0,0,-2.3,R-HSA-109582,Hemostasis,M001,1,0
+0,0,1,0,0,-2.6,GO:0071456,cellular response to hypoxia,M001,1,0
+1,0,0,-2.1,0,0,M239,PID A6B1 A6B4 INTEGRIN PATHWAY,M100,1,0
+0,0,1,0,0,-2.2,GO:0007223,"Wnt signaling pathway, calcium modulating pathway",M001,1,0
+0,0,1,0,0,-3.6,R-HSA-72163,mRNA Splicing - Major Pathway,M001,1,0
+0,0,1,0,0,-2.2,R-HSA-6791226,Major pathway of rRNA processing in the nucleolus and cytosol,M001,1,0
+0,0,1,0,0,-2.1,GO:0032743,positive regulation of interleukin-2 production,M001,1,0
+1,0,0,-3.9,0,0,GO:0070266,necroptotic process,M100,1,0
+1,0,0,-2.5,0,0,GO:0008015,blood circulation,M100,1,0
+1,0,0,-3.1,0,0,ko04621,NOD-like receptor signaling pathway,M100,1,0
+0,0,1,0,0,-2.1,GO:0035723,interleukin-15-mediated signaling pathway,M001,1,0
+0,1,0,0,-2,0,R-HSA-5576892,Phase 0 - rapid depolarisation,M010,1,0
+0,0,1,0,0,-2.1,ko04010,MAPK signaling pathway,M001,1,0
+0,0,1,0,0,-2.4,hsa04658,Th1 and Th2 cell differentiation,M001,1,0
+0,0,1,0,0,-2.9,R-HSA-69278,"Cell Cycle, Mitotic",M001,1,0
+0,0,1,0,0,-2.4,GO:0036294,cellular response to decreased oxygen levels,M001,1,0
+0,1,0,0,-3.9,0,M00014,Glucuronate pathway (uronate pathway),M010,1,0
+0,1,0,0,-2.1,0,ko00650,Butanoate metabolism,M010,1,0
+0,0,1,0,0,-2.7,GO:0008380,RNA splicing,M001,1,0
+0,1,0,0,-2,0,GO:0051282,regulation of sequestering of calcium ion,M010,1,0
+0,0,1,0,0,-2.5,GO:0051186,cofactor metabolic process,M001,1,0
+0,1,0,0,-3.6,0,R-HSA-399721,"Glutamate binding, activation of AMPA receptors and synaptic plasticity",M010,1,0
+1,0,0,-2.4,0,0,ko05202,Transcriptional misregulation in cancer,M100,1,0
+0,0,1,0,0,-2.5,GO:1905952,regulation of lipid localization,M001,1,0
+1,0,0,-2.2,0,0,GO:0045723,positive regulation of fatty acid biosynthetic process,M100,1,0
+0,0,1,0,0,-3,GO:0042770,signal transduction in response to DNA damage,M001,1,0
+0,0,1,0,0,-2.9,GO:0034033,purine nucleoside bisphosphate biosynthetic process,M001,1,0
+0,0,1,0,0,-2.7,ko00591,Linoleic acid metabolism,M001,1,0
+0,1,0,0,-4.4,0,GO:1905508,protein localization to microtubule organizing center,M010,1,0
+0,0,1,0,0,-4,ko05205,Proteoglycans in cancer,M001,1,0
+1,0,0,-2.5,0,0,GO:0043900,regulation of multi-organism process,M100,1,0
+0,0,1,0,0,-2.9,M182,PID IL3 PATHWAY,M001,1,0
+0,0,1,0,0,-2.1,GO:0006851,mitochondrial calcium ion transmembrane transport,M001,1,0
+0,0,1,0,0,-2.7,hsa00591,Linoleic acid metabolism,M001,1,0
+0,0,1,0,0,-2.8,GO:1901568,fatty acid derivative metabolic process,M001,1,0
+0,0,1,0,0,-2.2,GO:0022411,cellular component disassembly,M001,1,0
+1,0,0,-3.3,0,0,GO:0060352,cell adhesion molecule production,M100,1,0
+1,0,0,-2.6,0,0,GO:0045744,negative regulation of G protein-coupled receptor signaling pathway,M100,1,0
+0,1,0,0,-2.2,0,GO:0010634,positive regulation of epithelial cell migration,M010,1,0
+1,0,0,-2.4,0,0,GO:0003013,circulatory system process,M100,1,0
+0,1,0,0,-2.6,0,GO:0030166,proteoglycan biosynthetic process,M010,1,0
+0,1,0,0,-2.7,0,R-HSA-5637815,Signaling by Ligand-Responsive EGFR Variants in Cancer,M010,1,0
+0,0,1,0,0,-2.1,GO:0051100,negative regulation of binding,M001,1,0
+0,0,1,0,0,-2,GO:0019941,modification-dependent protein catabolic process,M001,1,0
+0,0,1,0,0,-2.2,GO:0006892,post-Golgi vesicle-mediated transport,M001,1,0
+0,0,1,0,0,-3.8,GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",M001,1,0
+0,0,1,0,0,-2.3,hsa05211,Renal cell carcinoma,M001,1,0
+0,1,0,0,-2.5,0,GO:0042402,cellular biogenic amine catabolic process,M010,1,0
+0,1,0,0,-2.2,0,GO:0034453,microtubule anchoring,M010,1,0
+0,0,1,0,0,-2.1,R-HSA-9006335,Signaling by Erythropoietin,M001,1,0
+1,0,0,-2.6,0,0,R-HSA-9609690,HCMV Early Events,M100,1,0
+1,0,0,-2.1,0,0,GO:0045089,positive regulation of innate immune response,M100,1,0
+1,0,0,-2,0,0,GO:0030593,neutrophil chemotaxis,M100,1,0
+0,0,1,0,0,-3.2,hsa05169,Epstein-Barr virus infection,M001,1,0
+1,0,0,-2.5,0,0,GO:0002755,MyD88-dependent toll-like receptor signaling pathway,M100,1,0
+0,1,0,0,-3.6,0,GO:0044380,protein localization to cytoskeleton,M010,1,0
+0,1,0,0,-3.3,0,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins,M010,1,0
+1,0,0,-2.2,0,0,GO:0010633,negative regulation of epithelial cell migration,M100,1,0
+0,1,0,0,-2.2,0,R-HSA-9664565,Signaling by ERBB2 KD Mutants,M010,1,0
+0,0,1,0,0,-2.9,GO:0072594,establishment of protein localization to organelle,M001,1,0
+1,0,0,-2,0,0,GO:0048844,artery morphogenesis,M100,1,0
+1,0,0,-2.3,0,0,GO:0060389,pathway-restricted SMAD protein phosphorylation,M100,1,0
+0,1,0,0,-2.2,0,GO:0014742,positive regulation of muscle hypertrophy,M010,1,0
+0,0,1,0,0,-4.2,GO:0009304,tRNA transcription,M001,1,0
+0,0,1,0,0,-3.1,GO:2000116,regulation of cysteine-type endopeptidase activity,M001,1,0
+1,0,0,-2.2,0,0,GO:0060547,negative regulation of necrotic cell death,M100,1,0
+0,0,1,0,0,-2.4,GO:0071349,cellular response to interleukin-12,M001,1,0
+0,0,1,0,0,-2.8,R-HSA-76066,RNA Polymerase III Transcription Initiation From Type 2 Promoter,M001,1,0
+0,0,1,0,0,-5.2,GO:0090407,organophosphate biosynthetic process,M001,1,0
+1,0,0,-3.6,0,0,R-HSA-69473,G2/M DNA damage checkpoint,M100,1,0
+0,0,1,0,0,-2.7,GO:0052548,regulation of endopeptidase activity,M001,1,0
+0,1,0,0,-3.5,0,R-HSA-71384,Ethanol oxidation,M010,1,0
+0,0,1,0,0,-2.1,GO:0045472,response to ether,M001,1,0
+0,0,1,0,0,-2.4,GO:0045717,negative regulation of fatty acid biosynthetic process,M001,1,0
+0,1,0,0,-3.7,0,hsa00010,Glycolysis / Gluconeogenesis,M010,1,0
+0,0,1,0,0,-2.7,R-HSA-1839117,Signaling by cytosolic FGFR1 fusion mutants,M001,1,0
+1,0,0,-2.1,0,0,hsa05206,MicroRNAs in cancer,M100,1,0
+0,0,1,0,0,-2.3,GO:0046471,phosphatidylglycerol metabolic process,M001,1,0
+0,0,1,0,0,-2.1,GO:0072528,pyrimidine-containing compound biosynthetic process,M001,1,0
+0,1,0,0,-2.9,0,GO:0009074,aromatic amino acid family catabolic process,M010,1,0
+1,0,0,-2.1,0,0,GO:0060330,regulation of response to interferon-gamma,M100,1,0
+1,0,0,-2.3,0,0,GO:0003015,heart process,M100,1,0
+0,0,1,0,0,-2.2,GO:1903312,negative regulation of mRNA metabolic process,M001,1,0
+0,1,0,0,-2.1,0,R-HSA-5362517,Signaling by Retinoic Acid,M010,1,0
+0,1,0,0,-2.4,0,GO:0106118,regulation of sterol biosynthetic process,M010,1,0
+1,0,0,-2.5,0,0,M1315,SIG PIP3 SIGNALING IN B LYMPHOCYTES,M100,1,0
+1,0,0,-4.4,0,0,R-HSA-211958,Miscellaneous substrates,M100,1,0
+0,0,1,0,0,-2.4,ko04961,Endocrine and other factor-regulated calcium reabsorption,M001,1,0
+0,1,0,0,-3.9,0,GO:0052695,cellular glucuronidation,M010,1,0
+0,1,0,0,-5.4,0,R-HSA-156580,Phase II - Conjugation of compounds,M010,1,0
+0,1,0,0,-2.8,0,GO:0061099,negative regulation of protein tyrosine kinase activity,M010,1,0
+0,0,1,0,0,-2.1,GO:0007005,mitochondrion organization,M001,1,0
+0,0,1,0,0,-2.2,GO:0043392,negative regulation of DNA binding,M001,1,0
+0,0,1,0,0,-2.4,GO:0051561,positive regulation of mitochondrial calcium ion concentration,M001,1,0
+0,0,1,0,0,-3.1,R-HSA-9006925,Intracellular signaling by second messengers,M001,1,0
+0,0,1,0,0,-4.8,hsa03320,PPAR signaling pathway,M001,1,0
+0,0,1,0,0,-2.1,GO:0016572,histone phosphorylation,M001,1,0
+1,0,0,-3.7,0,0,GO:0031623,receptor internalization,M100,1,0
+0,0,1,0,0,-2.2,GO:0048284,organelle fusion,M001,1,0
+0,0,1,0,0,-2.2,hsa04024,cAMP signaling pathway,M001,1,0
+0,0,1,0,0,-3.2,GO:1903651,positive regulation of cytoplasmic transport,M001,1,0
+0,0,1,0,0,-2.7,GO:0000375,"RNA splicing, via transesterification reactions",M001,1,0
+0,1,0,0,-2,0,GO:0007052,mitotic spindle organization,M010,1,0
+0,0,1,0,0,-2.1,R-HSA-166016,Toll Like Receptor 4 (TLR4) Cascade,M001,1,0
+0,0,1,0,0,-2.1,GO:0006511,ubiquitin-dependent protein catabolic process,M001,1,0
+0,0,1,0,0,-2,R-HSA-4086400,PCP/CE pathway,M001,1,0
+1,0,0,-3,0,0,GO:0016049,cell growth,M100,1,0
+1,0,0,-2.8,0,0,hsa04621,NOD-like receptor signaling pathway,M100,1,0
+1,0,0,-2.3,0,0,ko03440,Homologous recombination,M100,1,0
+1,0,0,-2.4,0,0,CORUM:929,CEN complex,M100,1,0
+0,0,1,0,0,-3.5,GO:0009165,nucleotide biosynthetic process,M001,1,0
+1,0,0,-2.1,0,0,GO:0030522,intracellular receptor signaling pathway,M100,1,0
+1,0,0,-2.4,0,0,GO:1901796,regulation of signal transduction by p53 class mediator,M100,1,0
+0,0,1,0,0,-2.4,R-HSA-937061,TRIF(TICAM1)-mediated TLR4 signaling ,M001,1,0
+1,0,0,-3.2,0,0,GO:0023058,adaptation of signaling pathway,M100,1,0
+0,0,1,0,0,-2.3,M22,PID GMCSF PATHWAY,M001,1,0
+0,0,1,0,0,-2,ko05160,Hepatitis C,M001,1,0
+0,1,0,0,-2.6,0,R-HSA-438064,Post NMDA receptor activation events,M010,1,0
+1,0,0,-2.1,0,0,GO:0032651,regulation of interleukin-1 beta production,M100,1,0
+0,1,0,0,-2.1,0,R-HSA-186797,Signaling by PDGF,M010,1,0
+0,0,1,0,0,-2.1,GO:0034612,response to tumor necrosis factor,M001,1,0
+0,0,1,0,0,-2.5,hsa04012,ErbB signaling pathway,M001,1,0
+0,1,0,0,-2.4,0,GO:0006637,acyl-CoA metabolic process,M010,1,0
+1,0,0,-3,0,0,M5193,SIG CHEMOTAXIS,M100,1,0
+0,1,0,0,-4.6,0,R-HSA-68884,Mitotic Telophase/Cytokinesis,M010,1,0
+0,0,1,0,0,-2.6,GO:0009163,nucleoside biosynthetic process,M001,1,0
+0,0,1,0,0,-2.2,R-HSA-388841,Costimulation by the CD28 family,M001,1,0
+0,1,0,0,-2,0,GO:0051283,negative regulation of sequestering of calcium ion,M010,1,0
+0,0,1,0,0,-2.8,R-HSA-76061,RNA Polymerase III Transcription Initiation From Type 1 Promoter,M001,1,0
+0,1,0,0,-3.4,0,GO:0006067,ethanol metabolic process,M010,1,0
+0,0,1,0,0,-2.4,GO:0009108,coenzyme biosynthetic process,M001,1,0
+1,0,0,-3.4,0,0,GO:0006352,"DNA-templated transcription, initiation",M100,1,0
+0,1,0,0,-2.1,0,GO:0150011,regulation of neuron projection arborization,M010,1,0
+0,1,0,0,-2,0,GO:0097553,calcium ion transmembrane import into cytosol,M010,1,0
+1,0,0,-2.3,0,0,GO:2000756,regulation of peptidyl-lysine acetylation,M100,1,0
+1,0,0,-2.2,0,0,ko05206,MicroRNAs in cancer,M100,1,0
+0,1,0,0,-3.4,0,hsa04917,Prolactin signaling pathway,M010,1,0
+1,0,0,-2,0,0,GO:0043627,response to estrogen,M100,1,0
+0,1,0,0,-2.6,0,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway",M010,1,0
+0,0,1,0,0,-2.1,GO:1903421,regulation of synaptic vesicle recycling,M001,1,0
+1,0,0,-2.1,0,0,R-HSA-5693607,Processing of DNA double-strand break ends,M100,1,0
+0,1,0,0,-2.8,0,R-HSA-210993,Tie2 Signaling,M010,1,0
+0,0,1,0,0,-3.6,GO:0043281,regulation of cysteine-type endopeptidase activity involved in apoptotic process,M001,1,0
+0,0,1,0,0,-2.1,R-HSA-5607763,CLEC7A (Dectin-1) induces NFAT activation,M001,1,0
+0,1,0,0,-2.4,0,R-HSA-9617324,Negative regulation of NMDA receptor-mediated neuronal transmission,M010,1,0
+0,1,0,0,-2,0,GO:1904251,regulation of bile acid metabolic process,M010,1,0
+0,0,1,0,0,-3.4,M00087,beta-Oxidation,M001,1,0
+0,0,1,0,0,-2.2,R-HSA-75105,Fatty acyl-CoA biosynthesis,M001,1,0
+0,0,1,0,0,-2.1,GO:0051098,regulation of binding,M001,1,0
+1,0,0,-2.3,0,0,R-HSA-73884,Base Excision Repair,M100,1,0
+1,0,0,-2.5,0,0,GO:0032200,telomere organization,M100,1,0
+0,0,1,0,0,-3.4,R-HSA-400206,Regulation of lipid metabolism by PPARalpha,M001,1,0
+0,1,0,0,-2.8,0,GO:0005996,monosaccharide metabolic process,M010,1,0
+1,0,0,-3.3,0,0,GO:0022401,negative adaptation of signaling pathway,M100,1,0
+0,0,1,0,0,-2.4,GO:0000028,ribosomal small subunit assembly,M001,1,0
+0,0,1,0,0,-2.2,GO:0006297,"nucleotide-excision repair, DNA gap filling",M001,1,0
+0,0,1,0,0,-2.2,GO:0045732,positive regulation of protein catabolic process,M001,1,0
+0,0,1,0,0,-2.9,GO:0072522,purine-containing compound biosynthetic process,M001,1,0
+0,0,1,0,0,-2.6,GO:0050852,T cell receptor signaling pathway,M001,1,0
+0,0,1,0,0,-2.7,GO:0033194,response to hydroperoxide,M001,1,0
+0,1,0,0,-3.8,0,GO:0072698,protein localization to microtubule cytoskeleton,M010,1,0
+0,0,1,0,0,-2.4,GO:0043065,positive regulation of apoptotic process,M001,1,0
+1,0,0,-3.3,0,0,GO:0002029,desensitization of G protein-coupled receptor signaling pathway,M100,1,0
+0,0,1,0,0,-2,R-HSA-74158,RNA Polymerase III Transcription,M001,1,0
+1,0,0,-2.5,0,0,GO:0042983,amyloid precursor protein biosynthetic process,M100,1,0
+1,0,0,-3.8,0,0,GO:0006957,"complement activation, alternative pathway",M100,1,0
+0,0,1,0,0,-2.1,GO:0038095,Fc-epsilon receptor signaling pathway,M001,1,0
+1,0,0,-2.2,0,0,R-HSA-73894,DNA Repair,M100,1,0
+0,0,1,0,0,-3,GO:0032988,ribonucleoprotein complex disassembly,M001,1,0
+0,1,0,0,-2.3,0,R-HSA-879518,Transport of organic anions,M010,1,0
+0,1,0,0,-2,0,GO:0050651,dermatan sulfate proteoglycan biosynthetic process,M010,1,0
+0,1,0,0,-2.2,0,M161,PID IFNG PATHWAY,M010,1,0
+0,0,1,0,0,-2.1,GO:0048872,homeostasis of number of cells,M001,1,0
+0,0,1,0,0,-3.1,GO:0036293,response to decreased oxygen levels,M001,1,0
+0,0,1,0,0,-2.1,R-HSA-211981,Xenobiotics,M001,1,0
+0,0,1,0,0,-2.1,GO:0071229,cellular response to acid chemical,M001,1,0
+0,1,0,0,-2.4,0,GO:1902850,microtubule cytoskeleton organization involved in mitosis,M010,1,0
+1,0,0,-2.4,0,0,GO:0007405,neuroblast proliferation,M100,1,0
+1,0,0,-2.2,0,0,R-HSA-5685942,HDR through Homologous Recombination (HRR),M100,1,0
+1,0,0,-2.1,0,0,GO:0007093,mitotic cell cycle checkpoint,M100,1,0
+1,0,0,-2,0,0,M185,PID ALK1 PATHWAY,M100,1,0
+0,1,0,0,-2.2,0,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors,M010,1,0
+0,0,1,0,0,-3.7,GO:0097267,omega-hydroxylase P450 pathway,M001,1,0
+0,0,1,0,0,-2.1,GO:0000466,"maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",M001,1,0
+0,0,1,0,0,-2.1,GO:0097435,supramolecular fiber organization,M001,1,0
+0,0,1,0,0,-2.8,GO:2000643,positive regulation of early endosome to late endosome transport,M001,1,0
+0,1,0,0,-4.6,0,GO:0071539,protein localization to centrosome,M010,1,0
+1,0,0,-2,0,0,hsa05202,Transcriptional misregulation in cancer,M100,1,0
+0,0,1,0,0,-2.8,hsa_M00065,"GPI-anchor biosynthesis, core oligosaccharide",M001,1,0
+1,0,0,-2.6,0,0,hsa04217,necroptosis,M100,1,0
+0,1,0,0,-2.4,0,GO:2000114,regulation of establishment of cell polarity,M010,1,0
+1,0,0,-2.7,0,0,GO:0000723,telomere maintenance,M100,1,0
+0,1,0,0,-2.6,0,ko00983,Drug metabolism - other enzymes,M010,1,0
+0,1,0,0,-3.1,0,R-HSA-5637810,Constitutive Signaling by EGFRvIII,M010,1,0
+1,0,0,-2.3,0,0,GO:0000183,chromatin silencing at rDNA,M100,1,0
+1,0,0,-2.1,0,0,GO:0001763,morphogenesis of a branching structure,M100,1,0
+1,0,0,-3.8,0,0,GO:0002031,G protein-coupled receptor internalization,M100,1,0
+0,0,1,0,0,-2.8,GO:0062012,regulation of small molecule metabolic process,M001,1,0
+0,0,1,0,0,-3.1,GO:0046390,ribose phosphate biosynthetic process,M001,1,0
+0,0,1,0,0,-2.8,GO:0000398,"mRNA splicing, via spliceosome",M001,1,0
+1,0,0,-2.3,0,0,hsa04919,thyroid hormone signaling pathway,M100,1,0
+0,1,0,0,-2.2,0,R-HSA-442755,Activation of NMDA receptors and postsynaptic events,M010,1,0
+0,1,0,0,-2.2,0,GO:0010613,positive regulation of cardiac muscle hypertrophy,M010,1,0
+1,0,0,-3.5,0,0,R-HSA-5693565,Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,M100,1,0
+0,1,0,0,-4.2,0,hsa00040,Pentose and glucuronate interconversions,M010,1,0
+0,0,1,0,0,-2.1,GO:0071103,DNA conformation change,M001,1,0
+0,1,0,0,-2.3,0,GO:0009410,response to xenobiotic stimulus,M010,1,0
+0,0,1,0,0,-2.7,GO:0051101,regulation of DNA binding,M001,1,0
+0,0,1,0,0,-2.4,R-HSA-9020591,Interleukin-12 signaling,M001,1,0
+0,0,1,0,0,-2,GO:0016054,organic acid catabolic process,M001,1,0
+0,0,1,0,0,-2,R-HSA-8868773,rRNA processing in the nucleus and cytosol,M001,1,0
+0,0,1,0,0,-2.1,GO:0001825,blastocyst formation,M001,1,0
+1,0,0,-2.5,0,0,GO:0035065,regulation of histone acetylation,M100,1,0
+0,0,1,0,0,-2.2,GO:0036444,calcium import into the mitochondrion,M001,1,0
+0,1,0,0,-2.5,0,GO:0039694,viral RNA genome replication,M010,1,0
+0,0,1,0,0,-2.7,GO:0006405,RNA export from nucleus,M001,1,0
+1,0,0,-2.4,0,0,GO:0043043,peptide biosynthetic process,M100,1,0
+0,1,0,0,-2.1,0,GO:0060048,cardiac muscle contraction,M010,1,0
+0,0,1,0,0,-3.5,GO:0019373,epoxygenase P450 pathway,M001,1,0
+0,1,0,0,-3.1,0,GO:0050810,regulation of steroid biosynthetic process,M010,1,0
+0,0,1,0,0,-2.3,GO:0043068,positive regulation of programmed cell death,M001,1,0
+0,0,1,0,0,-2.4,ko04070,Phosphatidylinositol signaling system,M001,1,0
+0,0,1,0,0,-2.1,GO:0043044,ATP-dependent chromatin remodeling,M001,1,0
+0,1,0,0,-2.5,0,GO:0090181,regulation of cholesterol metabolic process,M010,1,0
+0,0,1,0,0,-2.4,GO:0050817,coagulation,M001,1,0
+0,0,1,0,0,-2.7,ko04662,B cell receptor signaling pathway,M001,1,0
+1,0,0,-2.1,0,0,GO:0060334,regulation of interferon-gamma-mediated signaling pathway,M100,1,0
+1,0,0,-2.5,0,0,GO:0045653,negative regulation of megakaryocyte differentiation,M100,1,0
+1,0,0,-2.9,0,0,hsa03440,Homologous recombination,M100,1,0
+0,0,1,0,0,-4.8,R-HSA-8978868,Fatty acid metabolism,M001,1,0
+0,0,1,0,0,-3.3,GO:0009117,nucleotide metabolic process,M001,1,0
+0,0,1,0,0,-2.4,GO:0043487,regulation of RNA stability,M001,1,0
+0,0,1,0,0,-2,GO:0009150,purine ribonucleotide metabolic process,M001,1,0
+1,0,0,-2.6,0,0,R-HSA-5693538,Homology Directed Repair,M100,1,0
+1,0,0,-4.4,0,0,R-HSA-5689901,Metalloprotease DUBs,M100,1,0
+0,0,1,0,0,-2.7,GO:0006164,purine nucleotide biosynthetic process,M001,1,0
+1,0,0,-2.3,0,0,GO:1902042,negative regulation of extrinsic apoptotic signaling pathway via death domain receptors,M100,1,0
+1,0,0,-2.9,0,0,R-HSA-1679131,Trafficking and processing of endosomal TLR,M100,1,0
+0,1,0,0,-3.6,0,GO:0009101,glycoprotein biosynthetic process,M010,1,0
+0,0,1,0,0,-2.7,hsa04933,AGE-RAGE signaling pathway in diabetic complications,M001,1,0
+1,0,0,-2.9,0,0,GO:0045814,"negative regulation of gene expression, epigenetic",M100,1,0
+0,0,1,0,0,-2.3,GO:0042455,ribonucleoside biosynthetic process,M001,1,0
+0,0,1,0,0,-2,R-HSA-447115,Interleukin-12 family signaling,M001,1,0
+0,1,0,0,-2.9,0,GO:0150012,positive regulation of neuron projection arborization,M010,1,0
+0,0,1,0,0,-4.6,GO:0042274,ribosomal small subunit biogenesis,M001,1,0
+0,1,0,0,-3,0,CORUM:282,SNF2h-cohesin-NuRD complex,M010,1,0
+0,0,1,0,0,-2.5,R-HSA-168164,Toll Like Receptor 3 (TLR3) Cascade,M001,1,0
+0,1,0,0,-2.5,0,ko00350,Tyrosine metabolism,M010,1,0
+0,0,1,0,0,-2.9,GO:0072665,protein localization to vacuole,M001,1,0
+0,1,0,0,-2.4,0,GO:0016127,sterol catabolic process,M010,1,0
+0,0,1,0,0,-3,GO:0034404,nucleobase-containing small molecule biosynthetic process,M001,1,0
+0,0,1,0,0,-2.4,GO:0002756,MyD88-independent toll-like receptor signaling pathway,M001,1,0
+0,1,0,0,-2.2,0,GO:0098900,regulation of action potential,M010,1,0
+0,1,0,0,-3.5,0,GO:0006069,ethanol oxidation,M010,1,0
+1,0,0,-3.4,0,0,GO:0002224,toll-like receptor signaling pathway,M100,1,0
+0,1,0,0,-2.3,0,GO:0010881,regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion,M010,1,0
+0,0,1,0,0,-2.4,R-HSA-5621575,CD209 (DC-SIGN) signaling,M001,1,0
+0,1,0,0,-3.1,0,ko00010,Glycolysis / Gluconeogenesis,M010,1,0
+0,0,1,0,0,-2,R-HSA-1234174,Cellular response to hypoxia,M001,1,0
+1,0,0,-3.4,0,0,GO:0040008,regulation of growth,M100,1,0
+0,0,1,0,0,-3,GO:0010793,regulation of mRNA export from nucleus,M001,1,0
+0,0,1,0,0,-2.8,GO:0016042,lipid catabolic process,M001,1,0
+1,0,0,-3.2,0,0,R-HSA-69620,Cell Cycle Checkpoints,M100,1,0
+1,0,0,-2.1,0,0,M264,PID TOLL ENDOGENOUS PATHWAY,M100,1,0
+0,0,1,0,0,-2.6,CORUM:1114,5S-DNA-TFIIIA-TFIIIC2-TFIIIB subcomplex,M001,1,0
+0,0,1,0,0,-2.5,GO:0031647,regulation of protein stability,M001,1,0
+0,1,0,0,-2.5,0,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,M010,1,0
+1,0,0,-2.2,0,0,GO:1901985,positive regulation of protein acetylation,M100,1,0
+0,0,1,0,0,-2.6,GO:0006611,protein export from nucleus,M001,1,0
+0,1,0,0,-2.5,0,GO:0010631,epithelial cell migration,M010,1,0
+0,0,1,0,0,-2.4,GO:0019693,ribose phosphate metabolic process,M001,1,0
+0,1,0,0,-2,0,GO:0046606,negative regulation of centrosome cycle,M010,1,0
+1,0,0,-2.6,0,0,R-HSA-5250913,Positive epigenetic regulation of rRNA expression,M100,1,0
+0,1,0,0,-2.1,0,R-HSA-2426168,Activation of gene expression by SREBF (SREBP),M010,1,0
+0,0,1,0,0,-2.8,GO:0030099,myeloid cell differentiation,M001,1,0
+1,0,0,-2.2,0,0,GO:1903707,negative regulation of hemopoiesis,M100,1,0
+0,1,0,0,-2.4,0,GO:0045540,regulation of cholesterol biosynthetic process,M010,1,0
+0,0,1,0,0,-2.9,GO:0046831,regulation of RNA export from nucleus,M001,1,0
+0,0,1,0,0,-2,GO:0070672,response to interleukin-15,M001,1,0
+0,0,1,0,0,-3.5,R-HSA-1989781,PPARA activates gene expression,M001,1,0
+0,0,1,0,0,-2.6,hsa04976,Bile secretion,M001,1,0
+0,0,1,0,0,-2.2,R-HSA-72312,rRNA processing,M001,1,0
+1,0,0,-2.4,0,0,GO:1902041,regulation of extrinsic apoptotic signaling pathway via death domain receptors,M100,1,0
+0,0,1,0,0,-2.5,GO:0070201,regulation of establishment of protein localization,M001,1,0
+0,0,1,0,0,-2.1,GO:0071872,cellular response to epinephrine stimulus,M001,1,0
+1,0,0,-2.4,0,0,R-HSA-8864260,Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,M100,1,0
+0,0,1,0,0,-2.8,hsa04070,Phosphatidylinositol signaling system,M001,1,0
+0,0,1,0,0,-2.5,GO:0002446,neutrophil mediated immunity,M001,1,0
+1,0,0,-2.5,0,0,R-HSA-73886,Chromosome Maintenance,M100,1,0
+0,0,1,0,0,-2.1,GO:0045022,early endosome to late endosome transport,M001,1,0
+0,1,0,0,-2.8,0,hsa00860,Porphyrin and chlorophyll metabolism,M010,1,0
+0,0,1,0,0,-2.9,hsa03040,Spliceosome,M001,1,0
+0,0,1,0,0,-2.4,R-HSA-168898,Toll-like Receptor Cascades,M001,1,0
+1,0,0,-2.2,0,0,GO:0016578,histone deubiquitination,M100,1,0
+1,0,0,-2.1,0,0,GO:0035987,endodermal cell differentiation,M100,1,0
+0,1,0,0,-3.4,0,R-HSA-68877,Mitotic Prometaphase,M010,1,0
+0,0,1,0,0,-2.4,GO:0002262,myeloid cell homeostasis,M001,1,0
+0,0,1,0,0,-2,GO:0051028,mRNA transport,M001,1,0
+1,0,0,-2.1,0,0,GO:0006303,double-strand break repair via nonhomologous end joining,M100,1,0
+0,1,0,0,-2.2,0,GO:0010826,negative regulation of centrosome duplication,M010,1,0
+0,1,0,0,-2.1,0,GO:0000413,protein peptidyl-prolyl isomerization,M010,1,0
+0,0,1,0,0,-2.3,GO:0045922,negative regulation of fatty acid metabolic process,M001,1,0
+0,0,1,0,0,-2.1,ko00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,M001,1,0
+1,0,0,-2.4,0,0,R-HSA-9610379,HCMV Late Events,M100,1,0
+0,1,0,0,-2.3,0,GO:0032970,regulation of actin filament-based process,M010,1,0
+0,0,1,0,0,-2.7,GO:0098927,vesicle-mediated transport between endosomal compartments,M001,1,0
+0,1,0,0,-2.1,0,GO:0086004,regulation of cardiac muscle cell contraction,M010,1,0
+1,0,0,-2.2,0,0,GO:0003007,heart morphogenesis,M100,1,0
+0,0,1,0,0,-2.1,hsa04922,Glucagon signaling pathway,M001,1,0
+0,1,0,0,-3.8,0,GO:0015721,bile acid and bile salt transport,M010,1,0
+0,0,1,0,0,-2,GO:1901569,fatty acid derivative catabolic process,M001,1,0
+0,0,1,0,0,-3,ko05146,Amoebiasis,M001,1,0
+0,1,0,0,-2,0,R-HSA-425397,"Transport of vitamins, nucleosides, and related molecules",M010,1,0
+0,0,1,0,0,-2,GO:0032786,"positive regulation of DNA-templated transcription, elongation",M001,1,0
+0,0,1,0,0,-2.1,R-HSA-8957275,Post-translational protein phosphorylation,M001,1,0
+0,1,0,0,-2.5,0,GO:0032148,activation of protein kinase B activity,M010,1,0
+0,0,1,0,0,-2.6,R-HSA-6811438,Intra-Golgi traffic,M001,1,0
+0,0,1,0,0,-4.1,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,M001,1,0
+0,1,0,0,-7.3,0,hsa05204,Chemical carcinogenesis,M010,1,0
+1,0,0,-3.4,0,0,GO:2000241,regulation of reproductive process,M100,1,0
+1,0,0,-3.2,0,0,R-HSA-1912422,Pre-NOTCH Expression and Processing,M100,1,0
+0,0,1,0,0,-2.5,R-HSA-6790901,rRNA modification in the nucleus and cytosol,M001,1,0
+1,0,0,-2,0,0,R-HSA-69481,G2/M Checkpoints,M100,1,0
+0,1,0,0,-3.4,0,R-HSA-2500257,Resolution of Sister Chromatid Cohesion,M010,1,0
+0,1,0,0,-3.9,0,R-HSA-2470946,Cohesin Loading onto Chromatin,M010,1,0
+0,0,1,0,0,-2.6,R-HSA-9010642,ROBO receptors bind AKAP5,M001,1,0
+1,0,0,-3,0,0,GO:0070265,necrotic cell death,M100,1,0
+1,0,0,-2.3,0,0,GO:0010720,positive regulation of cell development,M100,1,0
+0,0,1,0,0,-2.4,hsa00920,Sulfur metabolism,M001,1,0
+1,0,0,-2.4,0,0,ko05034,Alcoholism,M100,1,0
+0,0,1,0,0,-2.1,GO:0006338,chromatin remodeling,M001,1,0
+0,0,1,0,0,-4.8,GO:0042791,5S class rRNA transcription by RNA polymerase III,M001,1,0
+0,1,0,0,-2.2,0,hsa04931,insulin resistance,M010,1,0
+1,0,0,-3.1,0,0,GO:0034080,CENP-A containing nucleosome assembly,M100,1,0
+0,0,1,0,0,-3.3,ko03320,PPAR signaling pathway,M001,1,0
+0,0,1,0,0,-3.2,GO:0015909,long-chain fatty acid transport,M001,1,0
+0,0,1,0,0,-3.7,CORUM:1181,C complex spliceosome,M001,1,0
+0,0,1,0,0,-3.1,R-HSA-983705,Signaling by the B Cell Receptor (BCR),M001,1,0
+1,0,0,-3.1,0,0,GO:0042985,negative regulation of amyloid precursor protein biosynthetic process,M100,1,0
+1,0,0,-2.6,0,0,GO:2000036,regulation of stem cell population maintenance,M100,1,0
+1,0,0,-2.2,0,0,GO:0071621,granulocyte chemotaxis,M100,1,0
+1,0,0,-2.4,0,0,GO:0033559,unsaturated fatty acid metabolic process,M100,1,0
+0,0,1,0,0,-2.4,hsa04662,B cell receptor signaling pathway,M001,1,0
+0,1,0,0,-2.1,0,GO:0036092,phosphatidylinositol-3-phosphate biosynthetic process,M010,1,0
+1,0,0,-2.2,0,0,R-HSA-9609646,HCMV Infection,M100,1,0
+0,0,1,0,0,-2.1,GO:0070199,establishment of protein localization to chromosome,M001,1,0
+0,0,1,0,0,-2,R-HSA-749476,RNA Polymerase III Abortive And Retractive Initiation,M001,1,0
+0,0,1,0,0,-2.8,ko04550,Signaling pathways regulating pluripotency of stem cells,M001,1,0
+0,0,1,0,0,-2.3,hsa04961,Endocrine and other factor-regulated calcium reabsorption,M001,1,0
+0,0,1,0,0,-2.3,GO:0045861,negative regulation of proteolysis,M001,1,0
+0,0,1,0,0,-2.6,GO:0008631,intrinsic apoptotic signaling pathway in response to oxidative stress,M001,1,0
+0,1,0,0,-2.2,0,GO:0009072,aromatic amino acid family metabolic process,M010,1,0
+0,0,1,0,0,-2.1,GO:0043010,camera-type eye development,M001,1,0
+0,0,1,0,0,-2.1,GO:0051560,mitochondrial calcium ion homeostasis,M001,1,0
+0,1,0,0,-2.6,0,hsa_M00095,"C5 isoprenoid biosynthesis, mevalonate pathway",M010,1,0
+0,1,0,0,-2.4,0,R-HSA-438066,"Unblocking of NMDA receptors, glutamate binding and activation",M010,1,0
+0,0,1,0,0,-3.5,GO:1901361,organic cyclic compound catabolic process,M001,1,0
+0,0,1,0,0,-2.6,GO:0098781,ncRNA transcription,M001,1,0
+0,1,0,0,-2.3,0,R-HSA-9673770,Signaling by PDGFRA extracellular domain mutants,M010,1,0
+0,0,1,0,0,-2.2,GO:0010942,positive regulation of cell death,M001,1,0
+0,1,0,0,-2.6,0,R-HSA-4420097,VEGFA-VEGFR2 Pathway,M010,1,0
+0,0,1,0,0,-2.6,R-HSA-2142816,Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),M001,1,0
+0,0,1,0,0,-2.3,R-HSA-1257604,PIP3 activates AKT signaling,M001,1,0
+0,1,0,0,-2.5,0,GO:0000226,microtubule cytoskeleton organization,M010,1,0
+0,0,1,0,0,-2.5,GO:0051188,cofactor biosynthetic process,M001,1,0
+0,0,1,0,0,-3.2,CORUM:1113,5S-DNA-TFIIIA-TFIIIC2 subcomplex,M001,1,0
+0,1,0,0,-2.4,0,GO:1901687,glutathione derivative biosynthetic process,M010,1,0
+1,0,0,-3.1,0,0,hsa04630,JAK-STAT signaling pathway,M100,1,0
+0,0,1,0,0,-2.5,GO:0010749,regulation of nitric oxide mediated signal transduction,M001,1,0
+0,1,0,0,-4.3,0,ko00040,Pentose and glucuronate interconversions,M010,1,0
+0,0,1,0,0,-4.1,hsa05205,Proteoglycans in cancer,M001,1,0
+0,0,1,0,0,-2.1,R-HSA-5683057,MAPK family signaling cascades,M001,1,0
+1,0,0,-2.2,0,0,hsa05167,kaposi sarcoma-associated herpesvirus infection,M100,1,0
+1,0,0,-2.6,0,0,GO:0006412,translation,M100,1,0
+1,0,0,-2.9,0,0,M167,PID AP1 PATHWAY,M100,1,0
+0,0,1,0,0,-2.2,GO:0015711,organic anion transport,M001,1,0
+0,0,1,0,0,-2.1,GO:0140056,organelle localization by membrane tethering,M001,1,0
+1,0,0,-2.1,0,0,M87,PID LKB1 PATHWAY,M100,1,0
+0,0,1,0,0,-3.2,GO:0010951,negative regulation of endopeptidase activity,M001,1,0
+0,0,1,0,0,-2.5,GO:0006732,coenzyme metabolic process,M001,1,0
+0,0,1,0,0,-2.3,GO:0042255,ribosome assembly,M001,1,0
+1,0,0,-2.5,0,0,GO:0043486,histone exchange,M100,1,0
+1,0,0,-3.4,0,0,GO:0043651,linoleic acid metabolic process,M100,1,0
+1,0,0,-2.4,0,0,R-HSA-5628897,TP53 Regulates Metabolic Genes,M100,1,0
+0,0,1,0,0,-3,GO:0048255,mRNA stabilization,M001,1,0
+1,0,0,-2.4,0,0,GO:0007204,positive regulation of cytosolic calcium ion concentration,M100,1,0
+0,1,0,0,-3,0,ko04917,Prolactin signaling pathway,M010,1,0
+0,0,1,0,0,-3.9,R-HSA-180024,DARPP-32 events,M001,1,0
+0,0,1,0,0,-2,R-HSA-8983432,Interleukin-15 signaling,M001,1,0
+1,0,0,-2.4,0,0,GO:0008625,extrinsic apoptotic signaling pathway via death domain receptors,M100,1,0
+1,0,0,-2.5,0,0,GO:0042772,"DNA damage response, signal transduction resulting in transcription",M100,1,0
+1,0,0,-2.9,0,0,GO:0061351,neural precursor cell proliferation,M100,1,0
+0,1,0,0,-2.6,0,GO:0030705,cytoskeleton-dependent intracellular transport,M010,1,0
+0,1,0,0,-3.8,0,R-HSA-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,M010,1,0
+0,0,1,0,0,-2.7,ko05203,Viral carcinogenesis,M001,1,0
+0,0,1,0,0,-3,R-HSA-187037,Signaling by NTRK1 (TRKA),M001,1,0
+1,0,0,-2.6,0,0,GO:0002683,negative regulation of immune system process,M100,1,0
+0,1,0,0,-7.8,0,ko05204,Chemical carcinogenesis,M010,1,0
+0,0,1,0,0,-2.3,R-HSA-76046,RNA Polymerase III Transcription Initiation,M001,1,0
+0,0,1,0,0,-2.2,M13,PID ERBB4 PATHWAY,M001,1,0
+0,1,0,0,-2.3,0,R-HSA-9673767,"Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",M010,1,0
+0,0,1,0,0,-2,GO:0006403,RNA localization,M001,1,0
+1,0,0,-2.8,0,0,hsa01524,Platinum drug resistance,M100,1,0
+1,0,0,-2.2,0,0,GO:1903557,positive regulation of tumor necrosis factor superfamily cytokine production,M100,1,0
+1,0,0,-2.3,0,0,GO:1903321,negative regulation of protein modification by small protein conjugation or removal,M100,1,0
+0,1,0,0,-2.8,0,M160,PID AVB3 INTEGRIN PATHWAY,M010,1,0
+0,1,0,0,-2.4,0,GO:0006707,cholesterol catabolic process,M010,1,0
+0,0,1,0,0,-2.4,R-HSA-166520,Signaling by NTRKs,M001,1,0
+0,1,0,0,-2.4,0,GO:0086003,cardiac muscle cell contraction,M010,1,0
+0,1,0,0,-2.6,0,hsa00983,Drug metabolism - other enzymes,M010,1,0
+0,0,1,0,0,-2.2,GO:0007015,actin filament organization,M001,1,0
+0,0,1,0,0,-2.4,GO:0035722,interleukin-12-mediated signaling pathway,M001,1,0
+0,1,0,0,-2.4,0,GO:0035383,thioester metabolic process,M010,1,0
+0,0,1,0,0,-2.1,GO:0007599,hemostasis,M001,1,0
+1,0,0,-2.1,0,0,GO:0097305,response to alcohol,M100,1,0
+0,0,1,0,0,-2.6,GO:1902001,fatty acid transmembrane transport,M001,1,0
+0,1,0,0,-2.4,0,R-HSA-2022923,Dermatan sulfate biosynthesis,M010,1,0
+1,0,0,-2,0,0,GO:0070129,regulation of mitochondrial translation,M100,1,0
+0,1,0,0,-3.9,0,hsa00053,Ascorbate and aldarate metabolism,M010,1,0
+0,0,1,0,0,-2.3,GO:0002263,cell activation involved in immune response,M001,1,0
+0,0,1,0,0,-2.3,R-HSA-6811442,Intra-Golgi and retrograde Golgi-to-ER traffic,M001,1,0
+0,1,0,0,-2.3,0,R-HSA-1660499,Synthesis of PIPs at the plasma membrane,M010,1,0
+0,0,1,0,0,-2.6,ko04658,Th1 and Th2 cell differentiation,M001,1,0
+0,0,1,0,0,-2.2,GO:0007224,smoothened signaling pathway,M001,1,0
+0,0,1,0,0,-2.1,GO:0071350,cellular response to interleukin-15,M001,1,0
+1,0,0,-3.1,0,0,GO:0001667,ameboidal-type cell migration,M100,1,0
+0,0,1,0,0,-2.9,GO:0072666,establishment of protein localization to vacuole,M001,1,0
+0,0,1,0,0,-2.3,GO:0072329,monocarboxylic acid catabolic process,M001,1,0
+0,0,1,0,0,-4.4,GO:0006364,rRNA processing,M001,1,0
+0,0,1,0,0,-2.3,GO:0001779,natural killer cell differentiation,M001,1,0
+0,0,1,0,0,-3.6,GO:0034660,ncRNA metabolic process,M001,1,0
+0,1,0,0,-2.8,0,GO:0006790,sulfur compound metabolic process,M010,1,0
+0,1,0,0,-2.4,0,GO:0090132,epithelium migration,M010,1,0
+0,0,1,0,0,-2.6,GO:0061013,regulation of mRNA catabolic process,M001,1,0
+1,0,0,-4.3,0,0,GO:0034508,centromere complex assembly,M100,1,0
+1,0,0,-4.2,0,0,R-HSA-3214858,RMTs methylate histone arginines,M100,1,0
+0,0,1,0,0,-2.9,GO:0034030,ribonucleoside bisphosphate biosynthetic process,M001,1,0
+0,0,1,0,0,-4.5,R-HSA-77305,Beta oxidation of palmitoyl-CoA to myristoyl-CoA,M001,1,0
+0,0,1,0,0,-2.2,GO:0043488,regulation of mRNA stability,M001,1,0
+0,1,0,0,-2.1,0,GO:0001508,action potential,M010,1,0
+0,0,1,0,0,-2.1,GO:0045786,negative regulation of cell cycle,M001,1,0
+0,1,0,0,-2.4,0,GO:0009100,glycoprotein metabolic process,M010,1,0
+0,0,1,0,0,-4.2,hsa05165,human papillomavirus infection,M001,1,0
+0,0,1,0,0,-2.8,R-HSA-9018682,Biosynthesis of maresins,M001,1,0
+0,0,1,0,0,-2.3,M18,PID INTEGRIN1 PATHWAY,M001,1,0
+0,0,1,0,0,-3.4,GO:0043154,negative regulation of cysteine-type endopeptidase activity involved in apoptotic process,M001,1,0
+0,0,1,0,0,-2.4,GO:0071453,cellular response to oxygen levels,M001,1,0
+0,0,1,0,0,-2.3,GO:0044257,cellular protein catabolic process,M001,1,0
+0,1,0,0,-2.2,0,R-HSA-112315,Transmission across Chemical Synapses,M010,1,0
+0,0,1,0,0,-2.2,GO:0070841,inclusion body assembly,M001,1,0
+0,0,1,0,0,-2.1,R-HSA-937041,IKK complex recruitment mediated by RIP1,M001,1,0
+0,0,1,0,0,-2,R-HSA-912526,Interleukin receptor SHC signaling,M001,1,0
+1,0,0,-3.5,0,0,GO:0060353,regulation of cell adhesion molecule production,M100,1,0
+0,1,0,0,-2.6,0,GO:0032070,regulation of deoxyribonuclease activity,M010,1,0
+0,0,1,0,0,-2.4,GO:1901659,glycosyl compound biosynthetic process,M001,1,0
+0,0,1,0,0,-3.3,GO:0010466,negative regulation of peptidase activity,M001,1,0
+1,0,0,-2.4,0,0,GO:0060047,heart contraction,M100,1,0
+0,0,1,0,0,-2.4,M44,PID HIF2PATHWAY,M001,1,0
+0,0,1,0,0,-2.3,R-HSA-5607764,CLEC7A (Dectin-1) signaling,M001,1,0
+1,0,0,-2.1,0,0,R-HSA-157118,Signaling by NOTCH,M100,1,0
+0,0,1,0,0,-2.5,CORUM:5194,"TNF-alpha/NF-kappa B signaling complex (SEC16A, CHUK, IKBKB, NFKB2, REL, IKBKG, MAP3K14, RELA, FBXW7, USP2)",M001,1,0
+0,0,1,0,0,-3.6,GO:0034655,nucleobase-containing compound catabolic process,M001,1,0
+0,0,1,0,0,-2.8,hsa04014,Ras signaling pathway,M001,1,0
+1,0,0,-2.8,0,0,ko01524,Platinum drug resistance,M100,1,0
+0,1,0,0,-2.6,0,GO:0043242,negative regulation of protein complex disassembly,M010,1,0
+0,0,1,0,0,-2.8,GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",M001,1,0
+1,0,0,-2.1,0,0,GO:0045596,negative regulation of cell differentiation,M100,1,0
+0,0,1,0,0,-3.2,R-HSA-9027307,Biosynthesis of maresin-like SPMs,M001,1,0
+0,0,1,0,0,-2.3,hsa05162,Measles,M001,1,0
+0,0,1,0,0,-2.9,M151,PID AR TF PATHWAY,M001,1,0
+0,0,1,0,0,-3.5,GO:1903311,regulation of mRNA metabolic process,M001,1,0
+0,0,1,0,0,-3,GO:0071426,ribonucleoprotein complex export from nucleus,M001,1,0
+0,1,0,0,-2.1,0,R-HSA-9006931,Signaling by Nuclear Receptors,M010,1,0
+0,0,1,0,0,-2.1,GO:0022407,regulation of cell-cell adhesion,M001,1,0
+0,1,0,0,-2.3,0,GO:0097306,cellular response to alcohol,M010,1,0
+0,0,1,0,0,-3.7,GO:0003307,regulation of Wnt signaling pathway involved in heart development,M001,1,0
+0,0,1,0,0,-3.1,GO:2000117,negative regulation of cysteine-type endopeptidase activity,M001,1,0
+0,0,1,0,0,-2.4,GO:0006979,response to oxidative stress,M001,1,0
+0,1,0,0,-3.4,0,GO:0006805,xenobiotic metabolic process,M010,1,0
+1,0,0,-2.2,0,0,GO:0006875,cellular metal ion homeostasis,M100,1,0
+0,0,1,0,0,-2.5,GO:0006406,mRNA export from nucleus,M001,1,0
+0,1,0,0,-2.2,0,GO:2000279,negative regulation of DNA biosynthetic process,M010,1,0
+1,0,0,-3.2,0,0,GO:0044706,multi-multicellular organism process,M100,1,0
+0,1,0,0,-2.4,0,R-HSA-5655291,Signaling by FGFR4 in disease,M010,1,0
+0,0,1,0,0,-3.5,CORUM:1105,transcription factor IIIC multisubunit complex,M001,1,0
+0,0,1,0,0,-2.2,hsa04964,Proximal tubule bicarbonate reclamation,M001,1,0
+0,0,1,0,0,-5,GO:0042180,cellular ketone metabolic process,M001,1,0
+0,0,1,0,0,-2.4,GO:0002283,neutrophil activation involved in immune response,M001,1,0
+0,0,1,0,0,-3,GO:0046700,heterocycle catabolic process,M001,1,0
+0,1,0,0,-3.1,0,R-HSA-5637812,Signaling by EGFRvIII in Cancer,M010,1,0
+0,1,0,0,-3.7,0,R-HSA-2468052,Establishment of Sister Chromatid Cohesion,M010,1,0
+0,0,1,0,0,-2.5,GO:0071427,mRNA-containing ribonucleoprotein complex export from nucleus,M001,1,0
+0,0,1,0,0,-5.2,R-HSA-8953854,Metabolism of RNA,M001,1,0
+0,0,1,0,0,-3.3,GO:0001666,response to hypoxia,M001,1,0
+0,1,0,0,-3,0,GO:0006066,alcohol metabolic process,M010,1,0
+0,0,1,0,0,-2.4,GO:0006605,protein targeting,M001,1,0
+0,0,1,0,0,-2.6,M175,PID ERBB2 ERBB3 PATHWAY,M001,1,0
+1,0,0,-3,0,0,R-HSA-114508,Effects of PIP2 hydrolysis,M100,1,0
+0,0,1,0,0,-2.2,GO:1905269,positive regulation of chromatin organization,M001,1,0
+0,1,0,0,-2.2,0,GO:0030205,dermatan sulfate metabolic process,M010,1,0
+0,0,1,0,0,-3.5,GO:1902369,negative regulation of RNA catabolic process,M001,1,0
+0,1,0,0,-2.4,0,GO:0090307,mitotic spindle assembly,M010,1,0
+0,0,1,0,0,-3.3,GO:0009303,rRNA transcription,M001,1,0
+0,0,1,0,0,-2.3,ko04964,Proximal tubule bicarbonate reclamation,M001,1,0
+0,0,1,0,0,-2.1,R-HSA-1483257,Phospholipid metabolism,M001,1,0
+0,1,0,0,-3.1,0,GO:0006084,acetyl-CoA metabolic process,M010,1,0
+0,1,0,0,-3.6,0,R-HSA-1169092,Activation of RAS in B cells,M010,1,0
+0,0,1,0,0,-2,ko05164,Influenza A,M001,1,0
+0,0,1,0,0,-3.6,GO:0071826,ribonucleoprotein complex subunit organization,M001,1,0
+0,0,1,0,0,-2.3,GO:0002366,leukocyte activation involved in immune response,M001,1,0
+0,1,0,0,-2.7,0,hsa00350,Tyrosine metabolism,M010,1,0
+0,0,1,0,0,-2,GO:0060911,cardiac cell fate commitment,M001,1,0
+1,0,0,-2.1,0,0,GO:0031497,chromatin assembly,M100,1,0
+0,0,1,0,0,-2.9,ko03040,Spliceosome,M001,1,0
+0,1,0,0,-2.1,0,GO:1902653,secondary alcohol biosynthetic process,M010,1,0
+0,1,0,0,-2.5,0,GO:0071466,cellular response to xenobiotic stimulus,M010,1,0
+0,0,1,0,0,-3.9,R-HSA-72172,mRNA Splicing,M001,1,0
+1,0,0,-3,0,0,R-HSA-6804756,Regulation of TP53 Activity through Phosphorylation,M100,1,0
+1,0,0,-3.9,0,0,GO:0061450,trophoblast cell migration,M100,1,0
+0,0,1,0,0,-2.9,R-HSA-3247509,Chromatin modifying enzymes,M001,1,0
+0,0,1,0,0,-3.4,GO:0015908,fatty acid transport,M001,1,0
+0,0,1,0,0,-2.4,R-HSA-77286,mitochondrial fatty acid beta-oxidation of saturated fatty acids,M001,1,0
+0,0,1,0,0,-2.1,GO:0007596,blood coagulation,M001,1,0
+0,0,1,0,0,-2.5,GO:0009062,fatty acid catabolic process,M001,1,0
+0,1,0,0,-2.7,0,CORUM:5286,TNF-alpha/NF-kappa B signaling complex 10,M010,1,0
+0,0,1,0,0,-2.3,ko05211,Renal cell carcinoma,M001,1,0
+0,1,0,0,-3.6,0,GO:0046834,lipid phosphorylation,M010,1,0
+0,0,1,0,0,-2.6,R-HSA-111885,Opioid Signalling,M001,1,0
+1,0,0,-2.1,0,0,GO:0016556,mRNA modification,M100,1,0
+1,0,0,-2.7,0,0,R-HSA-5693567,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),M100,1,0
+0,1,0,0,-2,0,GO:0043413,macromolecule glycosylation,M010,1,0
+0,1,0,0,-2.9,0,ko00860,Porphyrin and chlorophyll metabolism,M010,1,0
+0,0,1,0,0,-2.3,GO:0001708,cell fate specification,M001,1,0
+0,0,1,0,0,-2.1,hsa00270,Cysteine and methionine metabolism,M001,1,0
+0,0,1,0,0,-2.5,GO:0042119,neutrophil activation,M001,1,0
+0,1,0,0,-2.2,0,GO:0006694,steroid biosynthetic process,M010,1,0
+1,0,0,-2.5,0,0,GO:0071902,positive regulation of protein serine/threonine kinase activity,M100,1,0
+0,1,0,0,-2.7,0,R-HSA-1236382,Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,M010,1,0
+0,0,1,0,0,-2.2,GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic",M001,1,0
+1,0,0,-3.3,0,0,R-HSA-5633007,Regulation of TP53 Activity,M100,1,0
+1,0,0,-2.3,0,0,GO:0060546,negative regulation of necroptotic process,M100,1,0
+0,1,0,0,-2.5,0,hsa05215,Prostate cancer,M010,1,0
+0,1,0,0,-2.4,0,R-HSA-5365859,RA biosynthesis pathway,M010,1,0
+1,0,0,-3.3,0,0,GO:1903019,negative regulation of glycoprotein metabolic process,M100,1,0
+0,0,1,0,0,-2.3,GO:0070671,response to interleukin-12,M001,1,0
+1,0,0,-2.6,0,0,GO:0048384,retinoic acid receptor signaling pathway,M100,1,0
+0,1,0,0,-3.9,0,hsa_M00014,Glucuronate pathway (uronate pathway),M010,1,0
+1,0,0,-2,0,0,GO:0080135,regulation of cellular response to stress,M100,1,0
+0,1,0,0,-3.3,0,M141,PID PI3KCI PATHWAY,M010,1,0
+0,1,0,0,-4.4,0,GO:0046854,phosphatidylinositol phosphorylation,M010,1,0
+0,1,0,0,-2.6,0,GO:0031023,microtubule organizing center organization,M010,1,0
+0,0,1,0,0,-2.7,R-HSA-5687128,MAPK6/MAPK4 signaling,M001,1,0
+1,0,0,-3.1,0,0,GO:0060354,negative regulation of cell adhesion molecule production,M100,1,0
+0,0,1,0,0,-2.5,hsa00562,Inositol phosphate metabolism,M001,1,0
+1,0,0,-3,0,0,M295,SIG PIP3 SIGNALING IN CARDIAC MYOCTES,M100,1,0
+0,1,0,0,-2.2,0,GO:0007030,Golgi organization,M010,1,0
+0,1,0,0,-2.7,0,M63,PID AVB3 OPN PATHWAY,M010,1,0
+0,0,1,0,0,-2,ko04975,Fat digestion and absorption,M001,1,0
+0,0,1,0,0,-2.1,GO:0007507,heart development,M001,1,0
+0,0,1,0,0,-2.2,GO:0006720,isoprenoid metabolic process,M001,1,0
+0,0,1,0,0,-3.5,GO:1901293,nucleoside phosphate biosynthetic process,M001,1,0
+0,0,1,0,0,-3.1,ko00590,Arachidonic acid metabolism,M001,1,0
+0,1,0,0,-3.6,0,R-HSA-399719,Trafficking of AMPA receptors,M010,1,0
+0,1,0,0,-3.3,0,GO:0019585,glucuronate metabolic process,M010,1,0
+0,0,1,0,0,-2,GO:0046395,carboxylic acid catabolic process,M001,1,0
+0,1,0,0,-3.9,0,ko00053,Ascorbate and aldarate metabolism,M010,1,0
+0,0,1,0,0,-3.5,CORUM:1101,transcription factor IIIC multisubunit complex,M001,1,0
+0,0,1,0,0,-2.4,R-HSA-449147,Signaling by Interleukins,M001,1,0
+0,1,0,0,-2.9,0,GO:0032071,regulation of endodeoxyribonuclease activity,M010,1,0
+1,0,0,-3,0,0,R-HSA-9616222,Transcriptional regulation of granulopoiesis,M100,1,0
+0,1,0,0,-2.9,0,GO:0050732,negative regulation of peptidyl-tyrosine phosphorylation,M010,1,0
+0,0,1,0,0,-2.2,R-HSA-6798695,Neutrophil degranulation,M001,1,0
+0,1,0,0,-2.3,0,R-HSA-9620244,Long-term potentiation,M010,1,0
+0,0,1,0,0,-2.8,GO:2000197,regulation of ribonucleoprotein complex localization,M001,1,0
+0,0,1,0,0,-2.5,hsa04659,Th17 cell differentiation,M001,1,0
+1,0,0,-2.9,0,0,GO:0045088,regulation of innate immune response,M100,1,0
+1,0,0,-2.6,0,0,GO:0071158,positive regulation of cell cycle arrest,M100,1,0
+1,0,0,-2.7,0,0,GO:0002673,regulation of acute inflammatory response,M100,1,0
+0,0,1,0,0,-6.1,GO:0022613,ribonucleoprotein complex biogenesis,M001,1,0
+0,0,1,0,0,-2.9,GO:0044270,cellular nitrogen compound catabolic process,M001,1,0
+0,1,0,0,-2.2,0,GO:0016999,antibiotic metabolic process,M010,1,0
+1,0,0,-2.3,0,0,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex,M100,1,0
+0,0,1,0,0,-3.8,hsa00590,Arachidonic acid metabolism,M001,1,0
+0,0,1,0,0,-2.6,GO:0071396,cellular response to lipid,M001,1,0
+0,0,1,0,0,-2.1,R-HSA-189445,Metabolism of porphyrins,M001,1,0
+0,0,1,0,0,-3.6,GO:0006623,protein targeting to vacuole,M001,1,0
+0,0,1,0,0,-4.4,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA,M001,1,0
+0,1,0,0,-2,0,GO:0006486,protein glycosylation,M010,1,0
+0,1,0,0,-2.3,0,GO:0042178,xenobiotic catabolic process,M010,1,0
+0,0,1,0,0,-5,GO:0015718,monocarboxylic acid transport,M001,1,0
+0,1,0,0,-2.4,0,R-HSA-373753,Nephrin family interactions,M010,1,0
+0,1,0,0,-2.8,0,GO:0086001,cardiac muscle cell action potential,M010,1,0
+0,0,1,0,0,-3.6,R-HSA-3858494,Beta-catenin independent WNT signaling,M001,1,0
+0,1,0,0,-2.8,0,hsa04930,Type II diabetes mellitus,M010,1,0
+1,0,0,-3.3,0,0,GO:0007566,embryo implantation,M100,1,0
+1,0,0,-2.3,0,0,R-HSA-195258,RHO GTPase Effectors,M100,1,0
+0,0,1,0,0,-2.1,GO:0030336,negative regulation of cell migration,M001,1,0
+0,0,1,0,0,-3.3,GO:0043489,RNA stabilization,M001,1,0
+0,0,1,0,0,-2.1,GO:0032968,positive regulation of transcription elongation from RNA polymerase II promoter,M001,1,0
+0,0,1,0,0,-3.3,GO:0009260,ribonucleotide biosynthetic process,M001,1,0
+0,0,1,0,0,-2.1,GO:0032508,DNA duplex unwinding,M001,1,0
+0,0,1,0,0,-2.1,GO:1903649,regulation of cytoplasmic transport,M001,1,0
+0,0,1,0,0,-2,GO:0002223,stimulatory C-type lectin receptor signaling pathway,M001,1,0
+0,0,1,0,0,-3.9,GO:0010565,regulation of cellular ketone metabolic process,M001,1,0
+1,0,0,-2.8,0,0,R-HSA-606279,Deposition of new CENPA-containing nucleosomes at the centromere,M100,1,0
+1,0,0,-3.6,0,0,hsa05322,Systemic lupus erythematosus,M100,1,0
+1,0,0,-2.4,0,0,GO:0060393,regulation of pathway-restricted SMAD protein phosphorylation,M100,1,0
+0,0,1,0,0,-3.4,M53,PID INTEGRIN3 PATHWAY,M001,1,0
+0,0,1,0,0,-3,CORUM:1106,TFIIIC containing-TOP1-SUB1 complex,M001,1,0
+0,1,0,0,-2.8,0,GO:0030048,actin filament-based movement,M010,1,0
+0,0,1,0,0,-2.9,GO:0052547,regulation of peptidase activity,M001,1,0
+1,0,0,-3.4,0,0,R-HSA-5693606,DNA Double Strand Break Response,M100,1,0
+1,0,0,-2.3,0,0,M254,PID MYC REPRESS PATHWAY,M100,1,0
+0,0,1,0,0,-2.3,ko04270,Vascular smooth muscle contraction,M001,1,0
+1,0,0,-2.4,0,0,GO:0003170,heart valve development,M100,1,0
+1,0,0,-2.2,0,0,GO:0097191,extrinsic apoptotic signaling pathway,M100,1,0
+0,1,0,0,-2.3,0,GO:0018209,peptidyl-serine modification,M010,1,0
+0,1,0,0,-2.1,0,GO:0046605,regulation of centrosome cycle,M010,1,0
+0,0,1,0,0,-3.1,GO:0003306,Wnt signaling pathway involved in heart development,M001,1,0
+0,0,1,0,0,-2.4,GO:0033157,regulation of intracellular protein transport,M001,1,0
+1,0,0,-2.3,0,0,R-HSA-2142691,Synthesis of Leukotrienes (LT) and Eoxins (EX),M100,1,0
+0,1,0,0,-2.2,0,R-HSA-1227990,Signaling by ERBB2 in Cancer,M010,1,0
+1,0,0,-2,0,0,GO:0051480,regulation of cytosolic calcium ion concentration,M100,1,0
+1,0,0,-2.7,0,0,GO:0006336,DNA replication-independent nucleosome assembly,M100,1,0
+1,0,0,-3,0,0,R-HSA-5250924,B-WICH complex positively regulates rRNA expression,M100,1,0
+0,0,1,0,0,-2,GO:0042659,regulation of cell fate specification,M001,1,0
+1,0,0,-2.1,0,0,GO:0007565,female pregnancy,M100,1,0
+0,0,1,0,0,-2.4,R-HSA-5218921,VEGFR2 mediated cell proliferation,M001,1,0
+0,0,1,0,0,-2.7,GO:0046942,carboxylic acid transport,M001,1,0
+0,0,1,0,0,-2.1,R-HSA-8854691,Interleukin-20 family signaling,M001,1,0
+0,0,1,0,0,-2.2,GO:0033044,regulation of chromosome organization,M001,1,0
+0,0,1,0,0,-3.4,R-HSA-389359,CD28 dependent Vav1 pathway,M001,1,0
+0,1,0,0,-2.9,0,CORUM:5268,TNF-alpha/NF-kappa B signaling complex 7,M010,1,0
+0,0,1,0,0,-2.9,GO:0033866,nucleoside bisphosphate biosynthetic process,M001,1,0
+0,0,1,0,0,-2.3,GO:0097193,intrinsic apoptotic signaling pathway,M001,1,0
+0,0,1,0,0,-2.8,GO:0009152,purine ribonucleotide biosynthetic process,M001,1,0
+0,0,1,0,0,-3,GO:0035567,non-canonical Wnt signaling pathway,M001,1,0
+0,0,1,0,0,-2.9,ko04933,AGE-RAGE signaling pathway in diabetic complications,M001,1,0
+0,0,1,0,0,-2.8,R-HSA-202733,Cell surface interactions at the vascular wall,M001,1,0
+0,0,1,0,0,-2.9,R-HSA-4839726,Chromatin organization,M001,1,0
+0,0,1,0,0,-2.8,GO:1900242,regulation of synaptic vesicle endocytosis,M001,1,0
+0,0,1,0,0,-3.3,GO:1902373,negative regulation of mRNA catabolic process,M001,1,0
+0,0,1,0,0,-2.6,GO:0015849,organic acid transport,M001,1,0
+0,0,1,0,0,-2.4,GO:0009259,ribonucleotide metabolic process,M001,1,0
+0,0,1,0,0,-2.1,GO:0006641,triglyceride metabolic process,M001,1,0
+0,0,1,0,0,-2.9,hsa05203,Viral carcinogenesis,M001,1,0
+0,0,1,0,0,-3.7,GO:0030490,maturation of SSU-rRNA,M001,1,0
+0,0,1,0,0,-3.1,GO:2001252,positive regulation of chromosome organization,M001,1,0
+0,1,0,0,-2.4,0,GO:1901685,glutathione derivative metabolic process,M010,1,0
+0,0,1,0,0,-2.4,GO:0036230,granulocyte activation,M001,1,0

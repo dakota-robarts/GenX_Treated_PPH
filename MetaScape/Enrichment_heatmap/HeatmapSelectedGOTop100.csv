@@ -1,0 +1,101 @@
+GO,Description,_LogP_0.1 uM,_LogP_10 uM,_LogP_100 uM
+R-HSA-2990846,SUMOylation,-2.779687673542944,-2.824384070121112,0.0
+ko04630,Jak-STAT signaling pathway,-2.794057394009859,-2.1606056142106804,0.0
+GO:0051235,maintenance of location,-2.3537895770387656,-2.4071697156104546,0.0
+GO:0042537,benzene-containing compound metabolic process,-3.150512158566375,-3.2228552264569457,0.0
+GO:0040017,positive regulation of locomotion,-5.344073677853819,-2.4497955303337706,0.0
+hsa00982,Drug metabolism - cytochrome P450,-2.879533821815885,-11.854227086135316,0.0
+GO:0001667,ameboidal-type cell migration,-3.0850604234158157,0.0,0.0
+GO:0006957,"complement activation, alternative pathway",-3.7587769851093227,0.0,0.0
+GO:0070266,necroptotic process,-3.92899316190806,0.0,0.0
+GO:0002031,G protein-coupled receptor internalization,-3.7587769851093227,0.0,0.0
+GO:0002224,toll-like receptor signaling pathway,-3.4235320544693852,0.0,0.0
+GO:0060353,regulation of cell adhesion molecule production,-3.467878741612445,0.0,0.0
+R-HSA-5633007,Regulation of TP53 Activity,-3.3145580869054467,0.0,0.0
+GO:0061450,trophoblast cell migration,-3.869336134876709,0.0,0.0
+R-HSA-211958,Miscellaneous substrates,-4.410982479146255,0.0,0.0
+R-HSA-5689901,Metalloprotease DUBs,-4.422896991708252,0.0,0.0
+ko05206,MicroRNAs in cancer,-2.2139799398942137,0.0,0.0
+ko00620,Pyruvate metabolism,-2.3501442081667965,0.0,0.0
+M5193,SIG CHEMOTAXIS,-2.984528428872656,0.0,0.0
+R-HSA-1679131,Trafficking and processing of endosomal TLR,-2.891645476190649,0.0,0.0
+GO:0045596,negative regulation of cell differentiation,-2.073878179617502,0.0,0.0
+R-HSA-114508,Effects of PIP2 hydrolysis,-2.9503500489673944,0.0,0.0
+R-HSA-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,0.0,-3.7554887116191815,0.0
+R-HSA-1169092,Activation of RAS in B cells,0.0,-3.606483035140424,0.0
+GO:0006805,xenobiotic metabolic process,0.0,-3.4270063177738574,0.0
+GO:0006069,ethanol oxidation,0.0,-3.5051073446208267,0.0
+GO:0009101,glycoprotein biosynthetic process,0.0,-3.550435100064927,0.0
+GO:0015721,bile acid and bile salt transport,0.0,-3.7554887116191815,0.0
+GO:0046854,phosphatidylinositol phosphorylation,0.0,-4.374560376554037,0.0
+R-HSA-68884,Mitotic Telophase/Cytokinesis,0.0,-4.6241549465359615,0.0
+GO:0071539,protein localization to centrosome,0.0,-4.560490844291998,0.0
+M63,PID AVB3 OPN PATHWAY,0.0,-2.695351736749155,0.0
+GO:0050732,negative regulation of peptidyl-tyrosine phosphorylation,0.0,-2.8933398249895,0.0
+GO:0032071,regulation of endodeoxyribonuclease activity,0.0,-2.887322734512795,0.0
+CORUM:5268,TNF-alpha/NF-kappa B signaling complex 7,0.0,-2.887322734512795,0.0
+GO:2000114,regulation of establishment of cell polarity,0.0,-2.437807885397011,0.0
+GO:0018209,peptidyl-serine modification,0.0,-2.2809636841638956,0.0
+GO:0051493,regulation of cytoskeleton organization,0.0,-2.606105415021174,0.0
+R-HSA-9006931,Signaling by Nuclear Receptors,0.0,-2.0835116115757,0.0
+GO:0150012,positive regulation of neuron projection arborization,0.0,-2.887322734512795,0.0
+GO:0009074,aromatic amino acid family catabolic process,0.0,-2.901320849919567,0.0
+R-HSA-373760,L1CAM interactions,0.0,-2.5415153907307624,-2.3283696880457616
+ko04960,Aldosterone-regulated sodium reabsorption,0.0,-2.34953109914466,-2.2222731425681617
+GO:0044282,small molecule catabolic process,0.0,-2.019242518865135,-2.508550355696967
+GO:0006839,mitochondrial transport,-2.141726422941034,0.0,-3.405337589951436
+GO:1903827,regulation of cellular protein localization,-2.1305065928688154,0.0,-3.4184636680633007
+ko04151,PI3K-Akt signaling pathway,-3.010347367297428,0.0,-3.9623316963154327
+R-HSA-3700989,Transcriptional Regulation by TP53,-2.7441708246985757,0.0,-2.178287283677438
+GO:0031589,cell-substrate adhesion,-2.3742507003779654,0.0,-2.887200590519769
+GO:1900117,regulation of execution phase of apoptosis,-2.271529878286406,0.0,-2.0319983171262557
+ko04120,Ubiquitin mediated proteolysis,-2.5736491925065232,0.0,-2.8403814700557772
+R-HSA-1640170,Cell Cycle,-2.6373498962334225,0.0,-2.806162567491076
+GO:0030307,positive regulation of cell growth,-2.003056597390549,0.0,-2.062030969089951
+GO:0042060,wound healing,-2.4337335202523716,0.0,-2.302957037059492
+R-HSA-5688426,Deubiquitination,-5.316284165319269,0.0,-2.15108224272987
+R-HSA-211897,Cytochrome P450 - arranged by substrate type,-3.0137432389528924,0.0,-6.002684363624962
+ko05222,Small cell lung cancer,-3.201502760788667,0.0,-4.155607009406362
+GO:0032988,ribonucleoprotein complex disassembly,0.0,0.0,-2.9820923349388373
+R-HSA-168898,Toll-like Receptor Cascades,0.0,0.0,-2.3946740786143517
+CORUM:1332,Large Drosha complex,0.0,0.0,-2.4867667759281478
+GO:0035405,histone-threonine phosphorylation,0.0,0.0,-2.9934782598584726
+R-HSA-187037,Signaling by NTRK1 (TRKA),0.0,0.0,-2.9576344419625333
+GO:0006338,chromatin remodeling,0.0,0.0,-2.1197495255127405
+M151,PID AR TF PATHWAY,0.0,0.0,-2.8620229409437963
+GO:0031647,regulation of protein stability,0.0,0.0,-2.4748133243076285
+GO:0022407,regulation of cell-cell adhesion,0.0,0.0,-2.105144855732019
+GO:0006611,protein export from nucleus,0.0,0.0,-2.632937551259175
+GO:0097190,apoptotic signaling pathway,0.0,0.0,-2.8957535308489555
+GO:0042770,signal transduction in response to DNA damage,0.0,0.0,-2.9517144452696917
+GO:0051186,cofactor metabolic process,0.0,0.0,-2.455402143098019
+M286,PID TGFBR PATHWAY,0.0,0.0,-2.8136030757231945
+GO:0044257,cellular protein catabolic process,0.0,0.0,-2.28447690389862
+GO:0098927,vesicle-mediated transport between endosomal compartments,0.0,0.0,-2.700454261918766
+R-HSA-983705,Signaling by the B Cell Receptor (BCR),0.0,0.0,-3.0527027431058293
+GO:0071826,ribonucleoprotein complex subunit organization,0.0,0.0,-3.599542327111802
+R-HSA-3858494,Beta-catenin independent WNT signaling,0.0,0.0,-3.620595004019106
+GO:0006623,protein targeting to vacuole,0.0,0.0,-3.624446148448206
+GO:0043281,regulation of cysteine-type endopeptidase activity involved in apoptotic process,0.0,0.0,-3.649231628393969
+R-HSA-389359,CD28 dependent Vav1 pathway,0.0,0.0,-3.389567281315625
+GO:0016569,covalent chromatin modification,0.0,0.0,-3.04240199349202
+R-HSA-180024,DARPP-32 events,0.0,0.0,-3.870747973468315
+M53,PID INTEGRIN3 PATHWAY,0.0,0.0,-3.422651107463482
+hsa05169,Epstein-Barr virus infection,0.0,0.0,-3.1983464991148365
+GO:0003307,regulation of Wnt signaling pathway involved in heart development,0.0,0.0,-3.7398563724035148
+GO:0034655,nucleobase-containing compound catabolic process,0.0,0.0,-3.5792747441209567
+GO:0015718,monocarboxylic acid transport,0.0,0.0,-4.9641582221394795
+R-HSA-77305,Beta oxidation of palmitoyl-CoA to myristoyl-CoA,0.0,0.0,-4.495909985290009
+M255,PID HIF1 TFPATHWAY,0.0,0.0,-5.16833036120734
+GO:0010638,positive regulation of organelle organization,0.0,0.0,-4.364984485792672
+GO:0042791,5S class rRNA transcription by RNA polymerase III,0.0,0.0,-4.841644953156927
+GO:0042180,cellular ketone metabolic process,0.0,0.0,-4.970489605936063
+ko05205,Proteoglycans in cancer,0.0,0.0,-4.0384162179560645
+R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,0.0,0.0,-4.016284019360858
+hsa05165,human papillomavirus infection,0.0,0.0,-4.170187823548861
+R-HSA-8953854,Metabolism of RNA,0.0,0.0,-5.223278239414041
+GO:0022613,ribonucleoprotein complex biogenesis,0.0,0.0,-6.126242862156438
+GO:0019216,regulation of lipid metabolic process,-2.8315027488227127,-3.263586707256326,-4.628200501327417
+GO:0032787,monocarboxylic acid metabolic process,-3.5906325965332866,-5.775571459550607,-5.37121542976914
+R-HSA-556833,Metabolism of lipids,-3.2657039791527818,-3.1068942677269864,-7.043195567971496
+R-HSA-211859,Biological oxidations,-4.455307794939536,-7.903093243249987,-3.5524211469539324

@@ -1,0 +1,103 @@
+GID	GENE	NAME	GWEIGHT	100 uM	0.1 uM	10 uM
+AID				ARRY3X	ARRY1X	ARRY2X
+EWEIGHT				1	1	1
+GENE93X	R-HSA-211859	R-HSA-211859: Biological oxidations	1	0.178	0.223	0.395
+GENE86X	R-HSA-556833	R-HSA-556833: Metabolism of lipids	1	0.352	0.163	0.155
+GENE13X	GO:0032787	GO:0032787: monocarboxylic acid metabolic process	1	0.269	0.180	0.289
+GENE41X	GO:0019216	GO:0019216: regulation of lipid metabolic process	1	0.231	0.142	0.163
+GENE7X	GO:0022613	GO:0022613: ribonucleoprotein complex biogenesis	1	0.306	-0.000	-0.000
+GENE92X	R-HSA-8953854	R-HSA-8953854: Metabolism of RNA	1	0.261	-0.000	-0.000
+GENE79X	hsa05165	hsa05165: human papillomavirus infection	1	0.209	-0.000	-0.000
+GENE76X	R-HSA-2454202	R-HSA-2454202: Fc epsilon receptor (FCERI) signaling	1	0.201	-0.000	-0.000
+GENE75X	ko05205	ko05205: Proteoglycans in cancer	1	0.202	-0.000	-0.000
+GENE74X	GO:0042180	GO:0042180: cellular ketone metabolic process	1	0.249	-0.000	-0.000
+GENE52X	GO:0042791	GO:0042791: 5S class rRNA transcription by RNA polymerase III	1	0.242	-0.000	-0.000
+GENE24X	GO:0010638	GO:0010638: positive regulation of organelle organization	1	0.218	-0.000	-0.000
+GENE22X	M255	M255: PID HIF1 TFPATHWAY	1	0.258	-0.000	-0.000
+GENE5X	R-HSA-77305	R-HSA-77305: Beta oxidation of palmitoyl-CoA to myristoyl-CoA	1	0.225	-0.000	-0.000
+GENE16X	GO:0015718	GO:0015718: monocarboxylic acid transport	1	0.248	-0.000	-0.000
+GENE90X	GO:0034655	GO:0034655: nucleobase-containing compound catabolic process	1	0.179	-0.000	-0.000
+GENE63X	GO:0003307	GO:0003307: regulation of Wnt signaling pathway involved in heart development	1	0.187	-0.000	-0.000
+GENE56X	hsa05169	hsa05169: Epstein-Barr virus infection	1	0.160	-0.000	-0.000
+GENE47X	M53	M53: PID INTEGRIN3 PATHWAY	1	0.171	-0.000	-0.000
+GENE38X	R-HSA-180024	R-HSA-180024: DARPP-32 events	1	0.194	-0.000	-0.000
+GENE37X	GO:0016569	GO:0016569: covalent chromatin modification	1	0.152	-0.000	-0.000
+GENE33X	R-HSA-389359	R-HSA-389359: CD28 dependent Vav1 pathway	1	0.169	-0.000	-0.000
+GENE27X	GO:0043281	GO:0043281: regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	0.182	-0.000	-0.000
+GENE21X	GO:0006623	GO:0006623: protein targeting to vacuole	1	0.181	-0.000	-0.000
+GENE17X	R-HSA-3858494	R-HSA-3858494: Beta-catenin independent WNT signaling	1	0.181	-0.000	-0.000
+GENE4X	GO:0071826	GO:0071826: ribonucleoprotein complex subunit organization	1	0.180	-0.000	-0.000
+GENE14X	R-HSA-983705	R-HSA-983705: Signaling by the B Cell Receptor (BCR)	1	0.153	-0.000	-0.000
+GENE98X	GO:0098927	GO:0098927: vesicle-mediated transport between endosomal compartments	1	0.135	-0.000	-0.000
+GENE85X	GO:0044257	GO:0044257: cellular protein catabolic process	1	0.114	-0.000	-0.000
+GENE82X	M286	M286: PID TGFBR PATHWAY	1	0.141	-0.000	-0.000
+GENE78X	GO:0051186	GO:0051186: cofactor metabolic process	1	0.123	-0.000	-0.000
+GENE73X	GO:0042770	GO:0042770: signal transduction in response to DNA damage	1	0.148	-0.000	-0.000
+GENE67X	GO:0097190	GO:0097190: apoptotic signaling pathway	1	0.145	-0.000	-0.000
+GENE61X	GO:0006611	GO:0006611: protein export from nucleus	1	0.132	-0.000	-0.000
+GENE60X	GO:0022407	GO:0022407: regulation of cell-cell adhesion	1	0.105	-0.000	-0.000
+GENE59X	GO:0031647	GO:0031647: regulation of protein stability	1	0.124	-0.000	-0.000
+GENE57X	M151	M151: PID AR TF PATHWAY	1	0.143	-0.000	-0.000
+GENE54X	GO:0006338	GO:0006338: chromatin remodeling	1	0.106	-0.000	-0.000
+GENE44X	R-HSA-187037	R-HSA-187037: Signaling by NTRK1 (TRKA)	1	0.148	-0.000	-0.000
+GENE31X	GO:0035405	GO:0035405: histone-threonine phosphorylation	1	0.150	-0.000	-0.000
+GENE20X	CORUM:1332	CORUM:1332: Large Drosha complex	1	0.124	-0.000	-0.000
+GENE3X	R-HSA-168898	R-HSA-168898: Toll-like Receptor Cascades	1	0.120	-0.000	-0.000
+GENE11X	GO:0032988	GO:0032988: ribonucleoprotein complex disassembly	1	0.149	-0.000	-0.000
+GENE68X	ko05222	ko05222: Small cell lung cancer	1	0.208	0.160	-0.000
+GENE88X	R-HSA-211897	R-HSA-211897: Cytochrome P450 - arranged by substrate type	1	0.300	0.151	-0.000
+GENE1X	R-HSA-5688426	R-HSA-5688426: Deubiquitination	1	0.108	0.266	-0.000
+GENE91X	GO:0042060	GO:0042060: wound healing	1	0.115	0.122	-0.000
+GENE84X	GO:0030307	GO:0030307: positive regulation of cell growth	1	0.103	0.100	-0.000
+GENE42X	R-HSA-1640170	R-HSA-1640170: Cell Cycle	1	0.140	0.132	-0.000
+GENE40X	ko04120	ko04120: Ubiquitin mediated proteolysis	1	0.142	0.129	-0.000
+GENE29X	GO:1900117	GO:1900117: regulation of execution phase of apoptosis	1	0.102	0.114	-0.000
+GENE6X	GO:0031589	GO:0031589: cell-substrate adhesion	1	0.144	0.119	-0.000
+GENE10X	R-HSA-3700989	R-HSA-3700989: Transcriptional Regulation by TP53	1	0.109	0.137	-0.000
+GENE36X	ko04151	ko04151: PI3K-Akt signaling pathway	1	0.198	0.151	-0.000
+GENE49X	GO:1903827	GO:1903827: regulation of cellular protein localization	1	0.171	0.107	-0.000
+GENE53X	GO:0006839	GO:0006839: mitochondrial transport	1	0.170	0.107	-0.000
+GENE81X	GO:0044282	GO:0044282: small molecule catabolic process	1	0.125	-0.000	0.101
+GENE9X	ko04960	ko04960: Aldosterone-regulated sodium reabsorption	1	0.111	-0.000	0.117
+GENE65X	R-HSA-373760	R-HSA-373760: L1CAM interactions	1	0.116	-0.000	0.127
+GENE94X	GO:0009074	GO:0009074: aromatic amino acid family catabolic process	1	-0.000	-0.000	0.145
+GENE83X	GO:0150012	GO:0150012: positive regulation of neuron projection arborization	1	-0.000	-0.000	0.144
+GENE58X	R-HSA-9006931	R-HSA-9006931: Signaling by Nuclear Receptors	1	-0.000	-0.000	0.104
+GENE51X	GO:0051493	GO:0051493: regulation of cytoskeleton organization	1	-0.000	-0.000	0.130
+GENE50X	GO:0018209	GO:0018209: peptidyl-serine modification	1	-0.000	-0.000	0.114
+GENE46X	GO:2000114	GO:2000114: regulation of establishment of cell polarity	1	-0.000	-0.000	0.122
+GENE34X	CORUM:5268	CORUM:5268: TNF-alpha/NF-kappa B signaling complex 7	1	-0.000	-0.000	0.144
+GENE30X	GO:0032071	GO:0032071: regulation of endodeoxyribonuclease activity	1	-0.000	-0.000	0.144
+GENE23X	GO:0050732	GO:0050732: negative regulation of peptidyl-tyrosine phosphorylation	1	-0.000	-0.000	0.145
+GENE28X	M63	M63: PID AVB3 OPN PATHWAY	1	-0.000	-0.000	0.135
+GENE45X	GO:0071539	GO:0071539: protein localization to centrosome	1	-0.000	-0.000	0.228
+GENE19X	R-HSA-68884	R-HSA-68884: Mitotic Telophase/Cytokinesis	1	-0.000	-0.000	0.231
+GENE25X	GO:0046854	GO:0046854: phosphatidylinositol phosphorylation	1	-0.000	-0.000	0.219
+GENE89X	GO:0015721	GO:0015721: bile acid and bile salt transport	1	-0.000	-0.000	0.188
+GENE72X	GO:0009101	GO:0009101: glycoprotein biosynthetic process	1	-0.000	-0.000	0.178
+GENE66X	GO:0006069	GO:0006069: ethanol oxidation	1	-0.000	-0.000	0.175
+GENE64X	GO:0006805	GO:0006805: xenobiotic metabolic process	1	-0.000	-0.000	0.171
+GENE2X	R-HSA-1169092	R-HSA-1169092: Activation of RAS in B cells	1	-0.000	-0.000	0.180
+GENE43X	R-HSA-442742	R-HSA-442742: CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	1	-0.000	-0.000	0.188
+GENE100X	R-HSA-114508	R-HSA-114508: Effects of PIP2 hydrolysis	1	-0.000	0.148	-0.000
+GENE77X	GO:0045596	GO:0045596: negative regulation of cell differentiation	1	-0.000	0.104	-0.000
+GENE71X	R-HSA-1679131	R-HSA-1679131: Trafficking and processing of endosomal TLR	1	-0.000	0.145	-0.000
+GENE26X	M5193	M5193: SIG CHEMOTAXIS	1	-0.000	0.149	-0.000
+GENE12X	ko00620	ko00620: Pyruvate metabolism	1	-0.000	0.118	-0.000
+GENE18X	ko05206	ko05206: MicroRNAs in cancer	1	-0.000	0.111	-0.000
+GENE70X	R-HSA-5689901	R-HSA-5689901: Metalloprotease DUBs	1	-0.000	0.221	-0.000
+GENE97X	R-HSA-211958	R-HSA-211958: Miscellaneous substrates	1	-0.000	0.221	-0.000
+GENE99X	GO:0061450	GO:0061450: trophoblast cell migration	1	-0.000	0.193	-0.000
+GENE95X	R-HSA-5633007	R-HSA-5633007: Regulation of TP53 Activity	1	-0.000	0.166	-0.000
+GENE87X	GO:0060353	GO:0060353: regulation of cell adhesion molecule production	1	-0.000	0.173	-0.000
+GENE55X	GO:0002224	GO:0002224: toll-like receptor signaling pathway	1	-0.000	0.171	-0.000
+GENE48X	GO:0002031	GO:0002031: G protein-coupled receptor internalization	1	-0.000	0.188	-0.000
+GENE39X	GO:0070266	GO:0070266: necroptotic process	1	-0.000	0.196	-0.000
+GENE8X	GO:0006957	GO:0006957: complement activation, alternative pathway	1	-0.000	0.188	-0.000
+GENE35X	GO:0001667	GO:0001667: ameboidal-type cell migration	1	-0.000	0.154	-0.000
+GENE62X	hsa00982	hsa00982: Drug metabolism - cytochrome P450	1	-0.000	0.144	0.593
+GENE96X	GO:0040017	GO:0040017: positive regulation of locomotion	1	-0.000	0.267	0.122
+GENE15X	GO:0042537	GO:0042537: benzene-containing compound metabolic process	1	-0.000	0.158	0.161
+GENE80X	GO:0051235	GO:0051235: maintenance of location	1	-0.000	0.118	0.120
+GENE32X	ko04630	ko04630: Jak-STAT signaling pathway	1	-0.000	0.140	0.108
+GENE69X	R-HSA-2990846	R-HSA-2990846: SUMOylation	1	-0.000	0.139	0.141
