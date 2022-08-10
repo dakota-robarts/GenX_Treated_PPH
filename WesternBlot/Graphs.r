@@ -3,8 +3,8 @@ library(readxl)
 library(dplyr)
 library(tidyr)
 library(RColorBrewer)
-setwd("D:/OneDrive/Lab File/GenX/WesternBlot/New/Densitometry")
-dat <-read_excel("D:/OneDrive/Lab File/GenX/WesternBlot/New/Densitometry/values_long.xlsx", 
+setwd(".../WesternBlot")
+dat <-read_excel(".../values_long.xlsx", 
                             skip = 0)
 dat$`Liver #`[which(dat$`Liver #` == 6)]=1
 dat$`Liver #`[which(dat$`Liver #` == 7)]=2
