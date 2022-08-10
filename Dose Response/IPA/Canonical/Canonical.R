@@ -5,7 +5,7 @@ library(RColorBrewer)
 library(readr)
 library(xlsx)
 
-setwd("D:/OneDrive/Lab File/GenX/RNA Gene Array/Newest Analysis/Dose Response/IPA/Canonical")
+setwd(".../IPA/Canonical")
 
 Canonical_100uM <- read_excel("Canonical_100uM.xls", 
                               skip = 1)
